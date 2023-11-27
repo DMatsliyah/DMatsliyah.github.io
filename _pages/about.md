@@ -10,7 +10,10 @@ subtitle: Do you smell that? Something is cooking.
 #  image_circular: false # crops the image to make it circular
 #  more_info: >
 
-image: preview.jpg
+<div style="text-align: center;">
+    image: preview.jpg
+</div>
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

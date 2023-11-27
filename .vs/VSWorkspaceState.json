@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_bibliography",
+    "\\blog",
+    "\\_layouts",
     "\\_pages"
   ],
+  "SelectedNode": "\\_layouts\\about.html",
   "PreviewInSolutionExplorer": false
 }

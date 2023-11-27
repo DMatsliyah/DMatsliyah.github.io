@@ -5,12 +5,6 @@ permalink: /
 subtitle: Do you smell that? Something is cooking.
 
 profile:
-  align: right
-  image: 
-  image_circular: false # crops the image to make it circular
-  more_info: >
-
-preview-space:
   align: center
   image: preview.jpg
   image_circular: false # crops the image to make it circular

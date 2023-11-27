@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_includes\\scripts"
   ],
-  "SelectedNode": "\\_data",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\.all-contributorsrc",
+  "PreviewInSolutionExplorer": true
 }

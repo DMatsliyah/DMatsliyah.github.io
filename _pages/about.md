@@ -4,11 +4,13 @@ title: about
 permalink: /
 subtitle: Do you smell that? Something is cooking.
 
-profile:
-  align: center
-  image: preview.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
+#profile:
+#  align: center
+#  image: preview.jpg
+#  image_circular: false # crops the image to make it circular
+#  more_info: >
+
+image: preview.jpg
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

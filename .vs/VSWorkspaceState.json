@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_includes\\scripts"
+    "\\_bibliography",
+    "\\_pages"
   ],
-  "SelectedNode": "\\.all-contributorsrc",
-  "PreviewInSolutionExplorer": true
+  "PreviewInSolutionExplorer": false
 }

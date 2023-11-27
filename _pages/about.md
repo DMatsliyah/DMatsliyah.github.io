@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Do you smell that? Something is cooking.
-image: preview.jpg
 
 profile:
   align: center

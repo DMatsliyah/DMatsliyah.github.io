@@ -9,3 +9,7 @@ _site
 Gemfile.lock
 vendor
 
+# testing pages to ignore from website deployment
+/_pages/about_einstein.md
+/_pages/teaching.md
+/_pages/profiles.md

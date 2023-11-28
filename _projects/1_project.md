@@ -156,4 +156,5 @@ At the time of writing the project, high resolution maps of Israel were unavaila
 </div>
 
 ### References:
-  1. [NASA":" Climate Change and Global Warming]("https://climate.nasa.gov/") cited February 2nd, 2021 "
+  1. [NASA: Climate Change and Global Warming](https://climate.nasa.gov/) cited February 2nd, 2021 
+  2. "[NASA: Climate Change and Global Warming](https://climate.nasa.gov/)" cited February 2nd, 2021 

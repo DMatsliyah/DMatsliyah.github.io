@@ -52,7 +52,7 @@ Graphs 1 - 3 are available in an interactive version in the HTML file in the app
 
 <div class="row justify-content-center">
     <div class="col-md mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/sealevel1.png" title="Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel1.png" title="Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters" class="img-fluid rounded z-depth-1 zoomable=true" %}
     </div>
 </div>
 <div class="caption">
@@ -61,7 +61,7 @@ Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in me
 
 <div class="row justify-content-center">
     <div class="col-md mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/sealevel2.png" title="Graph 2: Sea level (blue) and its change (red) in 2013 in meters" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel2.png" title="Graph 2: Sea level (blue) and its change (red) in 2013 in meters" class="img-fluid rounded z-depth-1 zoomable=true" %}
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ Graph 2: Sea level (blue) and its change (red) in 2013 in meters. This graph off
 
 <div class="row justify-content-center">
     <div class="col-md mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/sealevel3.png" title="Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel3.png" title="Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters" class="img-fluid rounded z-depth-1 zoomable=true" %}
     </div>
 </div>
 <div class="caption">

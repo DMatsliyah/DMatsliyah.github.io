@@ -22,29 +22,28 @@ toc:
 
 This project is a B.Sc level GIS project made during 'GIS Data analysis' class, looking into possible damages that could occur with increasing sea levels. Guided by Dr. Yair Suari.
 
+
 ### Introduction
 
-Researchers worldwide are actively engaged in understanding the factors associated with global warming, with the goal of devising solutions to mitigate its impact. Global warming is a phenomenon driven by various interrelated anthropogenic and biogeochemical factors[^1]. A significant contributor to this warming is the emission of greenhouse gases and their accumulation in the atmosphere. This, in turn, affects the flux of solar radiation on Earth, influencing factors such as surface temperature, precipitation, humidity, and sea level.
+Researchers globally strive to comprehend factors linked to global warming, aiming to devise solutions to mitigate its impact. Global warming, driven by various anthropogenic and biogeochemical factors[^1], results from greenhouse gas emissions and their atmospheric accumulation, influencing Earth's climate variables such as surface temperature, precipitation, humidity, and sea level.
 
-The primary cause of sea level rise is the expansion of water due to an increase in temperature, causing water molecules to move apart. Additionally, the melting of continental glaciers contributes to this rise[^2][^3]. The Intergovernmental Panel on Climate Change (IPCC), an international body composed of researchers, publishes periodic reports that constitute a consensus on the Earth's climate situation. The 2014 IPCC report presented forecasts suggesting that the sea level will rise between 25-82 cm in the next hundred years[^4].
+Sea level rise primarily stems from water expansion due to temperature increase and continental glacier melting[^2][^3]. The 2014 IPCC report forecasts a sea level rise of 25-82 cm in the next century[^4]. In Israel, rising sea levels pose threats beyond flooding, including seawater intrusion, sand erosion, and cliff collapse, intensified by increased extreme weather events[^5]. This research aims to assess the impact of sea level rise on Israel's coasts.
 
-In Israel, the consequences of rising sea levels extend beyond flooding, encompassing dangers such as seawater intrusion into groundwater, sand erosion, and cliff collapse. These events are expected to become more frequent due to the increased frequency of extreme weather events resulting from global warming[^5]. As the population near the coast continues to grow, the number of potential victims is expected to rise each year. Beyond direct property damage, coastal activities such as water desalination may be harmed, affecting both civilians and industries far from the coast. Studies also indicate potential damage and disruption to various anchorages and ports due to the rise of sea levels[^6][^7].
-
-Hence, this research seeks to answer the question, 'What is the effect of sea level rise on the coasts of Israel?'
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/Tuvalu_high_tide.jpg" title="Tuvaluans watch as the high tide inundates their island home on funafuti due to global warming induced sea level rise. Photo: Ashley Cooper / SCIENCE PHOTO LIBRARY." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Tuvalu is an example of an area that is in risk due to rising sea levels. Photo: Ashley Cooper / SCIENCE PHOTO LIBRARY.
+    
+</div>
 
 ### Materials and Methods
 
-To conduct this research, data and models were collected from several official sources. Data regarding global sea water levels, obtained through satellite measurements, were downloaded from the NASA website, the American space agency known for its monitoring and research in various fields[^1]. Advanced satellites enable the measurement of various parameters, such as sea level, recorded by NASA satellites since 1993. Satellite altimetry is recognized as a high-quality technique for measuring Earth's sea level with a high degree of accuracy.
+Data and models were collected from official sources, including global sea water levels from NASA's satellite measurements since 1993[^1], historical sea level change data from the 2014 IPCC report[^4], and sea level data from Israel Mapping Office (MPI) for 1996-2020[^8]. RStudio processed approximately 2.4 million map measurements, determining two sea level rise steps (0.5 and 1 meter) presented on maps.
 
-Historical sea level change data and reliable forecasts were extracted from the latest IPCC report in 2014[^4]. As mentioned in the introduction, the IPCC is considered a reliable source of data on this subject. This study presents data from both the strictest and most lenient models from the report to offer a comprehensive picture.
-
-For a comprehensive assessment of the situation on the coasts of Israel, particularly in extreme situations such as storms, sea level data from the Israel Mapping Office (MPI) for the years 1996 to 2020 were downloaded[^8]. The MPI is a government body responsible for sea level measurements, taken automatically every five minutes at various stations along the country's coasts. These measurements use level gauges calibrated to an elevation point in the national balance network, ensuring the reliability of the collected data. To address variations in reporting among stations, a combination of data from Tel Aviv, Jaffa, and Ashdod coastal stations was used due to their proximity and representativeness.
-
-During the data processing phase, which involved approximately 2.4 million lines of map measurements, the RStudio software was employed. The attached code in the appendix outlines the steps taken during this phase. Two steps for sea level rise (0.5 and 1 meter) were determined from this data and will be presented on the map.
-
-To facilitate spatial analysis, raster layers from SRTM, a high-quality source providing data from NASA satellites that have been analyzed and processed to improve quality and fill gaps, were downloaded[^9]. However, challenges arose in distinguishing between individual centimeters due to the resolution of the raster. To address this, an additional raster focused on the fishing trawl area, derived from the map provided by Dr. Suari, was utilized. This raster is expected to provide higher resolution due to point mapping.
-
-Digitization tools and the Raster Calculator tool in QGIS software were employed to extract specific elevation areas from the rasters, later colored for visual illustration. The study is concentrated on the fishing trawler area and Haifa Bay.
+SRTM raster layers, providing high-quality data, were used for spatial analysis, with an additional raster focused on the fishing trawl area for higher resolution[^9]. QGIS software facilitated digitization, raster analysis, and visual illustration, focusing on the fishing trawler area and Haifa Bay.
 
 ### Results
 #### Sea Level Graphs from the Israeli National Mapping Agency Data[8]
@@ -112,7 +111,7 @@ Graph 5: Forecasts of the average global sea level in the 21st century in relati
     </div>
 </div>
 <div class="caption">
-Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on SRTM raster data[9].
+Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on SRTM raster data[9]. Areas colored in orange represent areas that will be damaged by sea level rise of up to 0.5 meters. Areas colored in red represent areas that will be damaged by sea level rise of up to 1 meter. 
 </div>
 
 <div class="row justify-content-center text-center">
@@ -121,7 +120,7 @@ Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer. M
     </div>
 </div>
 <div class="caption">
-Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on raster data from PI[10].
+Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on raster data from PI[10]. Areas colored in orange represent areas that will be damaged by sea level rise of up to 0.5 meters. Areas colored in red represent areas that will be damaged by sea level rise of up to 1 meter. 
 </div>
 
 <div class="row justify-content-center">
@@ -130,37 +129,43 @@ Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer. M
     </div>
 </div>
 <div class="caption">
-Map 3: Areas that may be affected by sea level rise in Haifa Bay. Map based on SRTM raster data[9]. Purple-colored areas were mapped separately as they indicate regions at sea level, necessitating distinction from the sea itself.
+Map 3: Areas that may be affected by sea level rise in Haifa Bay. Map based on SRTM raster data[9]. Purple-colored areas represent areas at sea level and were mapped separately as they indicate regions at sea level, necessitating distinction from the sea itself.  Areas colored in orange represent areas that will be damaged by sea level rise of up to 0.5 meters. Areas colored in red represent areas that will be damaged by sea level rise of up to 1 meter. 
 </div>
 
 ### Discussion & Conclusions
-First, an analysis of annual, seasonal, and even daily trends, such as tides, is evident in Graphs 1-3. Graph 2 highlights that while the sea level is higher in the summer, likely due to water expansion, the changes are more moderate. In contrast, winter exhibits faster and more powerful changes. Graph 3, aggregating several winters, emphasizes significant changes in sea level. It is important to note that these values reflect the sea level rather than wave height, justifying the presentation of a rise of up to 0.5 and 1 meter on the maps, respectively. The impact of waves and storms is expected to affect areas higher than these levels[^11].
+Graphs 1-3 reveal annual, seasonal, and daily trends. Graph 2 shows moderate sea level elevation during the summer, this increase may be attributed to water expansion. In contrast, data for winter sea level displays faster and more powerful changes. Graph 3, covering multiple winters, emphasizes significant sea level variations during winters. The data reflect sea level and don't account for waves, therefore I chose to model sea level increase with a 0.5 and 1 meter rise on the maps. Wave and storm impact is expected beyond these levels[^11].
 
-The primary conclusion drawn from the results is that existing height maps lack the resolution required for an accurate analysis of sea level rise, given the magnitude of changes in tens of centimeters. A comparison between Map 1 and Map 2 illustrates the limitations of SRTM data, considered of high quality, in providing detailed information relative to Mapi mapping. Even in Map 2, displaying improved data quality, there is room for enhancement, as part of the marked area is inaccurately classified as the sea itself.
+The key finding is that existing height maps lack the needed resolution for accurate sea level rise analysis due to centimeter-scale changes. Map 1 vs. Map 2 compares SRTM limitations, even with improved data quality in Map 2. Higher resolution maps are needed in order to perform a reliable analysis, as part of the marked area is misclassified as the sea.
 
-While damage in Maps 1 and 2 is less tangible, affecting a relatively narrow coastal stretch, Map 3 reveals extensive damage, including significant harm to the port of Haifa, the navy base, and adjacent areas. This poses economic challenges for the Haifa port, a critical entry point for sea goods, and has economic and security implications for the largest navy base in the country. Notably, due to the resolution of the SRTM raster, some buildings in Haifa port and the naval base were manually digitized and classified partially at sea level.
+Maps 1 and 2 show less tangible damage along a narrow coast, while Map 3 reveals extensive harm to Haifa's port and navy base. This presents economic and security challenges for Haifa, a vital sea goods entry point, and the largest navy base in the country. Due to SRTM raster resolution, buildings in Haifa port and the naval base were manually classified partly at sea level.
 
-In conclusion, sea level rise appears inevitable in the near term, foreseen to cause considerable damage. Proactive preparation is crucial to minimize the extent of this damage. While satellite altimetry proves effective, the discussion highlights the need for focused mapping, higher resolution tools, or technological advancements to measure risk areas with greater precision and conduct more accurate analyses. The economic and security ramifications of sea level rise underscore the urgency of such preparedness efforts.
+In conclusion, inevitable sea level rise foresees considerable damage. Proactive preparation is crucial. While satellite altimetry is effective, the discussion emphasizes the need for focused mapping, higher resolution tools, or technological advancements for precise risk assessment. Economic and security implications underscore the urgency of preparedness efforts.
 
+### My thoughts, two years later
+I've been rereading and editing this project now (November 2023) to upload as part of my portfolio and I made some interesting new discoveries.
+
+At the time of writing the project, high resolution maps of Israel were unavailable due to the Kyl-Bingaman Amendment, limiting resolution to over 2 meters per pixel. something I was not aware of. However, while going back to this project I found out that this law was changed, with the new restriction set at 40 centimeters. Today, higher resolution maps of Israel are already available. I wonder what the data would say now :)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/gis_sea/XXXXXXXX.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/gis_sea/sealevelEndpic.jpg" title="A Prediction of Rising Sea Levels, Photo by go_greener_oz" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A Prediction of Rising Sea Levels, Photo by go_greener_oz
 </div>
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+### References
+1.	“NASA: Climate Change and Global Warming.” [Online]. Available: https://climate.nasa.gov/. [cited February 2nd, 2021]
+2.	N. N. Greenwood and A. Earnshaw (1997), Chemistry of the Elements, 2nd ed. p.625, Elsevier.
+3.	“Sea Level - AR4 WGI Chapter 10: Global Climate Projections.” [Online]. Available: https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/ch10s10-es-8-sea-level.html. [cited February 2nd, 2021]
+4.	“AR5 Climate Change 2014: Impacts, Adaptation, and Vulnerability — IPCC.” [Online]. Available: https://www.ipcc.ch/report/ar5/wg2/.  [cited February 2nd, 2021]
+5.	Rosen S.D (2004), “Assessment of the impact due to sea level rise and wave climate change on the state of the Israeli beaches, in view of the monitoring activities performed by Israel Oceanographic & Limnological Research in Israel and abroad,” Beaches 2004, Yrly. J. Isr. Soc. Prot. Nat., pp. 21–28. [Online]. Available: http://seashorerosen.com/wp-content/uploads/2014/10/hofim_2004_lr.pdf [cited January 27th, 2021]
+6.	A. Christodoulou, P. Christidis, and H. Demirel, (2019). “Sea-level rise in ports: a wider focus on impacts,” Marit. Econ. Logist., vol. 21, no. 4, pp. 482–496, doi: 10.1057/s41278-018-0114-z.
+7.	P. D. Bromirski, A. J. Miller, and R. E. Flick, (2012). “Understanding North Pacific sea level trends,” Eos (Washington. DC)., vol. 93, no. 27, pp. 249–251, doi: 10.1029/2012EO270001.
+8.	“Israeli national mapping agency (MAPI) sea level data” [Online]. Available: https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx. [cited January 5th, 2021]
+9.	“CGIAR-CSI SRTM – SRTM 90m DEM Digital Elevation Database.” [Online]. Available: https://srtm.csi.cgiar.org/ [cited January 5th, 2021]
+10.	MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari.
+11.	“NOAA - Intro to Storm Surge” [Online]. Available: https://www.nhc.noaa.gov/surge/surge_intro.pdf [cited January 11th, 2021]
+
+

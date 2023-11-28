@@ -6,6 +6,7 @@ img: assets/img/12.jpg
 importance: 2
 category: Science
 giscus_comments: true
+
 ---
 
 #Introduction
@@ -18,7 +19,7 @@ In Israel, the consequences of rising sea levels extend beyond flooding, encompa
 
 Hence, this research seeks to answer the question, 'What is the effect of sea level rise on the coasts of Israel?'
 
-#Materials and Methods
+##Materials and Methods
 
 To conduct this research, data and models were collected from several official sources. Data regarding global sea water levels, obtained through satellite measurements, were downloaded from the NASA website, the American space agency known for its monitoring and research in various fields[^1]. Advanced satellites enable the measurement of various parameters, such as sea level, recorded by NASA satellites since 1993. Satellite altimetry is recognized as a high-quality technique for measuring Earth's sea level with a high degree of accuracy.
 

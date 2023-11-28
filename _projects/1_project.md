@@ -1,22 +1,13 @@
 ---
 layout: page
 title: "Rising sea levels effects on Israeli coasts"
-description: Utilizing R & QGIS to inspect the effect of rising sea levels in Israel
+description: Utilizing R & QGIS to inspect the possible effects of rising sea levels in Israel
 img: assets/img/projects/gis_sea/gisCard.jpg
 importance: 2
 category: Science
 giscus_comments: true
 
 ---
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/gis_sea/gisPage.jpg" title="Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer." class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer.
-</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -27,7 +18,7 @@ giscus_comments: true
     Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer.
 </div>
 
-This project is a B.Sc GIS project looking into possible damages that could occur with increasing sea levels. Guided by Dr. Yair Suari.
+This project is a B.Sc level GIS project made during 'GIS Data analysis' class, looking into possible damages that could occur with increasing sea levels. Guided by Dr. Yair Suari.
 
 ### Introduction
 
@@ -54,6 +45,91 @@ To facilitate spatial analysis, raster layers from SRTM, a high-quality source p
 Digitization tools and the Raster Calculator tool in QGIS software were employed to extract specific elevation areas from the rasters, later colored for visual illustration. The study is concentrated on the fishing trawler area and Haifa Bay.
 
 ### Results
+#### Sea Level Graphs from the Israeli National Mapping Agency Data[8]
+Graphs 1 - 3 are available in an interactive version in the HTML file in the appendix attached to the work.
+*remember to change this and link the actual html assets when project is prepared for publishing*
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel1.png" title="Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters. This graph reveals seasonal trends with medium resolution.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel2.png" title="Graph 2: Sea level (blue) and its change (red) in 2013 in meters" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Graph 2: Sea level (blue) and its change (red) in 2013 in meters. This graph offers high-resolution details of the sea level variations during the year.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel3.jpg" title="Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters. Each graph displays data from the winter of each year between 2009 and 2015. The data shown is from October to March every year, except for the winter of 2010/2011 where there was no data between January and March. Unusual changes in the panel indicate storms and extreme events.
+</div>
+#### Relevant Tables and Graphs from the IPCC Report (2014)[4]
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/ipcc2014.png" title="Graph 4: Historical global change in sea level in relation to the average sea level in the years 1905-2000" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Graph 4: Historical global change in sea level in relation to the average sea level in the years 1905-2000.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/searisetable.png" title="Forecasts of the change in the global average sea level in the 21st century" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Table 1: Forecasts of the change in the global average sea level in the 21st century in relation to the values in the years 1986-2005, in units of meters.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/seariseplot.png" title="Forecasts of the average global sea level in the 21st century" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Graph 5: Forecasts of the average global sea level in the 21st century in relation to data from 1986-2005 based on process-based models. The graph presents expected values in the milder RCP2.6 and the stricter RCP8.5 models, with the average marked in blue and red, respectively. Minimum and maximum limits are depicted as a colored band.
+</div>
+
+#### QGIS Maps
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/michmoret_srtm.png" title="Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on SRTM raster data[9].
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/michmoret_hires.png" title="Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on raster data from PI[10].
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/haifa_srtm.png" title="Map 3: Areas that may be affected by sea level rise in Haifa Bay" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Map 3: Areas that may be affected by sea level rise in Haifa Bay. Map based on SRTM raster data[9]. Purple-colored areas were mapped separately as they indicate regions at sea level, necessitating distinction from the sea itself.
+</div>
 
 ### Discussion & Conclusions
 First, an analysis of annual, seasonal, and even daily trends, such as tides, is evident in Graphs 1-3. Graph 2 highlights that while the sea level is higher in the summer, likely due to water expansion, the changes are more moderate. In contrast, winter exhibits faster and more powerful changes. Graph 3, aggregating several winters, emphasizes significant changes in sea level. It is important to note that these values reflect the sea level rather than wave height, justifying the presentation of a rise of up to 0.5 and 1 meter on the maps, respectively. The impact of waves and storms is expected to affect areas higher than these levels[^11].
@@ -67,35 +143,12 @@ In conclusion, sea level rise appears inevitable in the near term, foreseen to c
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/gis_sea/XXXXXXXX.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
 {% raw %}
 ```html

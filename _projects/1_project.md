@@ -52,7 +52,7 @@ Graphs 1 - 3 are available in an interactive version in the HTML file in the app
 *remember to change this and link the actual html assets when project is prepared for publishing*
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-md mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/sealevel1.png" title="Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -61,7 +61,7 @@ Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in me
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-md mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/sealevel2.png" title="Graph 2: Sea level (blue) and its change (red) in 2013 in meters" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -70,7 +70,7 @@ Graph 2: Sea level (blue) and its change (red) in 2013 in meters. This graph off
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-md mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/sealevel3.png" title="Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -78,8 +78,8 @@ Graph 2: Sea level (blue) and its change (red) in 2013 in meters. This graph off
 Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters. Each graph displays data from the winter of each year between 2009 and 2015. The data shown is from October to March every year, except for the winter of 2010/2011 where there was no data between January and March. Unusual changes in the panel indicate storms and extreme events.
 </div>
 #### Relevant Tables and Graphs from the IPCC Report (2014)[4]
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/ipcc2014.png" title="Graph 4: Historical global change in sea level in relation to the average sea level in the years 1905-2000" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -87,8 +87,8 @@ Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in 
 Graph 4: Historical global change in sea level in relation to the average sea level in the years 1905-2000.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/searisetable.png" title="Forecasts of the change in the global average sea level in the 21st century" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -96,8 +96,8 @@ Graph 4: Historical global change in sea level in relation to the average sea le
 Table 1: Forecasts of the change in the global average sea level in the 21st century in relation to the values in the years 1986-2005, in units of meters.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/seariseplot.png" title="Forecasts of the average global sea level in the 21st century" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -106,8 +106,8 @@ Graph 5: Forecasts of the average global sea level in the 21st century in relati
 </div>
 
 #### QGIS Maps
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/michmoret_srtm.png" title="Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -115,8 +115,8 @@ Graph 5: Forecasts of the average global sea level in the 21st century in relati
 Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on SRTM raster data[9].
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center text-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/michmoret_hires.png" title="Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -124,8 +124,8 @@ Map 1: Areas that may be affected by sea level rise in the west of Emek Hefer. M
 Map 2: Areas that may be affected by sea level rise in the west of Emek Hefer. Map based on raster data from PI[10].
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/haifa_srtm.png" title="Map 3: Areas that may be affected by sea level rise in Haifa Bay" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

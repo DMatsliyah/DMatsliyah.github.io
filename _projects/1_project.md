@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Sea levels - GIS
+title: "Rising sea levels effects on Israeli coasts using R & QGIS"
 description: Inspecting the effect of rising sea levels in Israel
-img: assets/img/gisCard.jpg
+img: assets/img/projects/gis_sea/gisCard.jpg
 importance: 2
 category: Science
 giscus_comments: true
 
 ---
-
-#Rising sea levels effects on Israeli coasts using R & QGIS
-##B.Sc GIS project looking into possible damages that could occur with increasing sea levels. Guidance: Dr. Yair Suari.
+# Sea levels - GIS
+# Rising sea levels effects on Israeli coasts using R & QGIS
+## B.Sc GIS project looking into possible damages that could occur with increasing sea levels. Guidance: Dr. Yair Suari.
 
 #Introduction
 

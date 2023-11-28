@@ -47,8 +47,7 @@ SRTM raster layers, providing high-quality data, were used for spatial analysis,
 
 ### Results
 #### Sea Level Graphs from the Israeli National Mapping Agency Data
-Graphs 1 - 3 are available in an interactive version in the HTML file in the appendix attached to the work.
-*remember to change this and link the actual html assets when project is prepared for publishing*
+*Graphs 1 - 3 will soon be available in an interactive version*
 
 <div class="row justify-content-center">
     <div class="col-md mt-3 mt-md-0 text-center">
@@ -142,9 +141,9 @@ Maps 1 and 2 show less tangible damage along a narrow coast, while Map 3 reveals
 In conclusion, inevitable sea level rise foresees considerable damage. Proactive preparation is crucial. While satellite altimetry is effective, the discussion emphasizes the need for focused mapping, higher resolution tools, or technological advancements for precise risk assessment. Economic and security implications underscore the urgency of preparedness efforts.
 
 ### My thoughts, two years later
-I've been rereading and editing this project now (November 2023) to upload as part of my portfolio and I made some interesting new discoveries.
+I've been re-reading and editing this project now (November 2023) to upload as part of my portfolio and I made some interesting new discoveries.
 
-At the time of writing the project, high resolution maps of Israel were unavailable due to the Kyl-Bingaman Amendment, limiting resolution to over 2 meters per pixel. something I was not aware of. However, while going back to this project I found out that this law was changed, with the new restriction set at 40 centimeters. Today, higher resolution maps of Israel are already available. I wonder what the data would say now :)
+At the time of writing the project, high resolution maps of Israel were unavailable due to the Kyl-Bingaman Amendment, limiting resolution to over 2 meters per pixel. something I was not aware of. However, while going back to this project I found out that this law was changed, with the new restriction set at 40 centimeters. Today, higher resolution maps of Israel are already available. I wonder what the data would say now :thinking:
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">

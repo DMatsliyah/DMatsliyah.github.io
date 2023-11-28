@@ -156,6 +156,7 @@ At the time of writing the project, high resolution maps of Israel were unavaila
 </div>
 
 ### References:
- 8."[Israeli national mapping agency (MAPI) sea level data] (https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx) cited January 5th, 2021"
- 10."MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari."
- 
+ 8. "[Israeli national mapping agency (MAPI) sea level data] (https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx) cited January 5th, 2021"
+ 10. "MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari."
+ - "[Israeli national mapping agency (MAPI) sea level data] (https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx) cited January 5th, 2021"
+ - "MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari."

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
+title: project 2 - T4SS
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 1
+category: Science
 giscus_comments: true
+related_publications: Duchin.Rapp2023.11.14.567099
 ---
 
 Every project has a beautiful feature showcase page.

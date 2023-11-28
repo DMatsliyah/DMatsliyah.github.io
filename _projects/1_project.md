@@ -156,7 +156,14 @@ At the time of writing the project, high resolution maps of Israel were unavaila
 </div>
 
 ### References:
- 8. [Israeli national mapping agency (MAPI) sea level data] (https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx) cited January 5th, 2021
- 10. MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari.
- - [Israeli national mapping agency (MAPI) sea level data] (https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx) cited January 5th, 2021
- - MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari.
+  1. "[NASA: Climate Change and Global Warming](https://climate.nasa.gov/) cited February 2nd, 2021"
+  2. "N. N. Greenwood and A. Earnshaw (1997), Chemistry of the Elements, 2nd ed. p.625, Elsevier."
+  3. "[Sea Level - AR4 WGI Chapter 10: Global Climate Projections.](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/ch10s10-es-8-sea-level.html) cited February 2nd, 2021"
+  4. "[AR5 Climate Change 2014: Impacts, Adaptation, and Vulnerability — IPCC.](https://www.ipcc.ch/report/ar5/wg2/) cited February 2nd, 2021"
+  5. "[Rosen S.D (2004), Assessment of the impact due to sea level rise and wave climate change on the state of the Israeli beaches, in view of the monitoring activities performed by Israel Oceanographic & Limnological Research in Israel and abroad, Beaches 2004, Yrly. J. Isr. Soc. Prot. Nat., pp. 21–28.](http://seashorerosen.com/wp-content/uploads/2014/10/hofim_2004_lr.pdf) cited January 27th, 2021"
+  6. "A. Christodoulou, P. Christidis, and H. Demirel, (2019). Sea-level rise in ports: a wider focus on impacts, Marit. Econ. Logist., vol. 21, no. 4, pp. 482–496, doi: 10.1057/s41278-018-0114-z."
+  7. "P. D. Bromirski, A. J. Miller, and R. E. Flick, (2012). Understanding North Pacific sea level trends, Eos (Washington. DC)., vol. 93, no. 27, pp. 249–251, doi: 10.1029/2012EO270001."
+  8. "[Israeli national mapping agency (MAPI) sea level data](https://www.mapi.gov.il/Research/sea_level/info/Pages/seaLvlInfo.aspx) cited January 5th, 2021"
+  9. "[CGIAR-CSI SRTM – SRTM 90m DEM Digital Elevation Database](https://srtm.csi.cgiar.org/) cited January 5th, 2021"
+  10. "MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari."
+  11. "[NOAA - Intro to Storm Surge](https://www.nhc.noaa.gov/surge/surge_intro.pdf) cited January 11th, 2021"

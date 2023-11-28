@@ -11,11 +11,6 @@ profile:
   more_info: >
     <p></p> 
 
-<div class="row justify-content-center text-center">
-    <div class="col-md mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/preview.jpg" title="in front matter" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

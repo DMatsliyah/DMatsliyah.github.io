@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: Do you smell that? Something is cooking.
 
+This website is still a work in progress.
+
 profile:
   align: center
   image: preview.jpg

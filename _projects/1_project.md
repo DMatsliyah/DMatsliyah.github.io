@@ -6,6 +6,8 @@ img: assets/img/projects/gis_sea/gisCard.jpg
 importance: 2
 category: Science
 giscus_comments: true
+toc:
+  sidebar: left
 
 ---
 
@@ -49,8 +51,8 @@ Digitization tools and the Raster Calculator tool in QGIS software were employed
 Graphs 1 - 3 are available in an interactive version in the HTML file in the appendix attached to the work.
 *remember to change this and link the actual html assets when project is prepared for publishing*
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/sealevel1.png" title="Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -58,8 +60,8 @@ Graphs 1 - 3 are available in an interactive version in the HTML file in the app
 Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in meters. This graph reveals seasonal trends with medium resolution.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/sealevel2.png" title="Graph 2: Sea level (blue) and its change (red) in 2013 in meters" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -67,9 +69,9 @@ Graph 1: Sea level (blue) and its change (red) between the years 1996-2020 in me
 Graph 2: Sea level (blue) and its change (red) in 2013 in meters. This graph offers high-resolution details of the sea level variations during the year.
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/gis_sea/sealevel3.jpg" title="Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/projects/gis_sea/sealevel3.png" title="Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in meters" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

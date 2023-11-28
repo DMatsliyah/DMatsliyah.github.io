@@ -1,18 +1,35 @@
 ---
 layout: page
-title: "Rising sea levels effects on Israeli coasts using R & QGIS"
-description: Inspecting the effect of rising sea levels in Israel
+title: "Rising sea levels effects on Israeli coasts"
+description: Utilizing R & QGIS to inspect the effect of rising sea levels in Israel
 img: assets/img/projects/gis_sea/gisCard.jpg
 importance: 2
 category: Science
 giscus_comments: true
 
 ---
-# Sea levels - GIS
-# Rising sea levels effects on Israeli coasts using R & QGIS
-## B.Sc GIS project looking into possible damages that could occur with increasing sea levels. Guidance: Dr. Yair Suari.
 
-#Introduction
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/gisPage.jpg" title="Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/gis_sea/gisPage.jpg" title="Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer.
+</div>
+
+This project is a B.Sc GIS project looking into possible damages that could occur with increasing sea levels. Guided by Dr. Yair Suari.
+
+### Introduction
 
 Researchers worldwide are actively engaged in understanding the factors associated with global warming, with the goal of devising solutions to mitigate its impact. Global warming is a phenomenon driven by various interrelated anthropogenic and biogeochemical factors[^1]. A significant contributor to this warming is the emission of greenhouse gases and their accumulation in the atmosphere. This, in turn, affects the flux of solar radiation on Earth, influencing factors such as surface temperature, precipitation, humidity, and sea level.
 
@@ -22,7 +39,7 @@ In Israel, the consequences of rising sea levels extend beyond flooding, encompa
 
 Hence, this research seeks to answer the question, 'What is the effect of sea level rise on the coasts of Israel?'
 
-##Materials and Methods
+### Materials and Methods
 
 To conduct this research, data and models were collected from several official sources. Data regarding global sea water levels, obtained through satellite measurements, were downloaded from the NASA website, the American space agency known for its monitoring and research in various fields[^1]. Advanced satellites enable the measurement of various parameters, such as sea level, recorded by NASA satellites since 1993. Satellite altimetry is recognized as a high-quality technique for measuring Earth's sea level with a high degree of accuracy.
 
@@ -36,29 +53,18 @@ To facilitate spatial analysis, raster layers from SRTM, a high-quality source p
 
 Digitization tools and the Raster Calculator tool in QGIS software were employed to extract specific elevation areas from the rasters, later colored for visual illustration. The study is concentrated on the fishing trawler area and Haifa Bay.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Results
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Discussion & Conclusions
+First, an analysis of annual, seasonal, and even daily trends, such as tides, is evident in Graphs 1-3. Graph 2 highlights that while the sea level is higher in the summer, likely due to water expansion, the changes are more moderate. In contrast, winter exhibits faster and more powerful changes. Graph 3, aggregating several winters, emphasizes significant changes in sea level. It is important to note that these values reflect the sea level rather than wave height, justifying the presentation of a rise of up to 0.5 and 1 meter on the maps, respectively. The impact of waves and storms is expected to affect areas higher than these levels[^11].
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+The primary conclusion drawn from the results is that existing height maps lack the resolution required for an accurate analysis of sea level rise, given the magnitude of changes in tens of centimeters. A comparison between Map 1 and Map 2 illustrates the limitations of SRTM data, considered of high quality, in providing detailed information relative to Mapi mapping. Even in Map 2, displaying improved data quality, there is room for enhancement, as part of the marked area is inaccurately classified as the sea itself.
+
+While damage in Maps 1 and 2 is less tangible, affecting a relatively narrow coastal stretch, Map 3 reveals extensive damage, including significant harm to the port of Haifa, the navy base, and adjacent areas. This poses economic challenges for the Haifa port, a critical entry point for sea goods, and has economic and security implications for the largest navy base in the country. Notably, due to the resolution of the SRTM raster, some buildings in Haifa port and the naval base were manually digitized and classified partially at sea level.
+
+In conclusion, sea level rise appears inevitable in the near term, foreseen to cause considerable damage. Proactive preparation is crucial to minimize the extent of this damage. While satellite altimetry proves effective, the discussion highlights the need for focused mapping, higher resolution tools, or technological advancements to measure risk areas with greater precision and conduct more accurate analyses. The economic and security ramifications of sea level rise underscore the urgency of such preparedness efforts.
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

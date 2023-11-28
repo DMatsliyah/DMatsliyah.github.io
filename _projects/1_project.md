@@ -78,7 +78,7 @@ Graph 3: A panel of graphs showing the sea level (blue) and its change (red) in 
 </div>
 #### Relevant Tables and Graphs from the 2014 IPCC Report
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm-7 mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/ipcc2014.png" title="Graph 4: Historical global change in sea level in relation to the average sea level in the years 1905-2000" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -96,7 +96,7 @@ Table 1: Forecasts of the change in the global average sea level in the 21st cen
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm-6 mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/seariseplot.png" title="Forecasts of the average global sea level in the 21st century" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -146,8 +146,8 @@ I've been rereading and editing this project now (November 2023) to upload as pa
 
 At the time of writing the project, high resolution maps of Israel were unavailable due to the Kyl-Bingaman Amendment, limiting resolution to over 2 meters per pixel. something I was not aware of. However, while going back to this project I found out that this law was changed, with the new restriction set at 40 centimeters. Today, higher resolution maps of Israel are already available. I wonder what the data would say now :)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/sealevelEndpic.jpg" title="A Prediction of Rising Sea Levels, Photo by go_greener_oz" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

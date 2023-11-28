@@ -158,6 +158,4 @@ At the time of writing the project, high resolution maps of Israel were unavaila
 ### References:
   1. [NASA: Climate Change and Global Warming](https://climate.nasa.gov/) cited February 2nd, 2021 
   2. N. N. Greenwood and A. Earnshaw \(1997\), Chemistry of the Elements, 2nd ed. p.625, Elsevier.
-  6. A. Christodoulou, P. Christidis, and H. Demirel, \(2019\). Sea-level rise in ports\: a wider focus on impacts, Marit. Econ. Logist., vol. 21, no. 4, pp. 482–496, doi\: 10.1057/s41278-018-0114-z.
-  7. P. D. Bromirski, A. J. Miller, and R. E. Flick, \(2012\). Understanding North Pacific sea level trends, Eos \(Washington. DC\)., vol. 93, no. 27, pp. 249–251, doi\: 10.1029/2012EO270001.
   10. MAPI mapping of Michmoret and surrounding area, courtesy of Dr. Yair Suari.

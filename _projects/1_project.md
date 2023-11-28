@@ -158,4 +158,4 @@ At the time of writing the project, high resolution maps of Israel were unavaila
 ### References:
   1. [NASA: Climate Change and Global Warming](https://climate.nasa.gov/) cited February 2nd, 2021 
   2. " [NASA: Climate Change and Global Warming](https://climate.nasa.gov/) " cited February 2nd, 2021 
-  3. ' P. D. Bromirski, A. J. Miller, and R. E. Flick, (2012). Understanding North Pacific sea level trends, Eos (Washington. DC)., vol. 93, no. 27, pp. 249–251, doi: 10.1029/2012EO270001. '
+  3. P'.' D'.' Bromirski, A'.' J'.' Miller, and R'.' E. Flick, '(2012)'. Understanding North Pacific sea level trends, Eos (Washington. DC)., vol. 93, no. 27, pp. 249–251, doi':' 10.1029/2012EO270001. 

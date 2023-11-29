@@ -59,48 +59,14 @@ This study explored Roseobacter conjugation in the context of an algal host, usi
 ### Results
 #### Sea Level Graphs from the Israeli National Mapping Agency Data
 
-<div class="row justify-content-center">
-    <div class="col-md mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/sealevel3.png" title="title" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-caption
-</div>
-
 #### Relevant Tables and Graphs from the 2014 IPCC Report
-<div class="row justify-content-center">
-    <div class="col-sm-7 mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/ipcc2014.png" title="title" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-caption
-</div>
-
 
 #### QGIS Maps
-<div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/michmoret_srtm.png" title="title" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-caption
-</div>
 
 ### Discussion & Conclusions
 
 ### My thoughts, two years later
 
-<div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/sealevelEndpic.jpg" title="title" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    caption
-</div>
 
 ### References
 

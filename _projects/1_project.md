@@ -132,7 +132,7 @@ Map 3: Areas that may be affected by sea level rise in Haifa Bay. Map based on S
 </div>
 
 ### Discussion & Conclusions
-Graphs 1-3 reveal annual, seasonal, and daily trends. Graph 2 shows moderate sea level elevation during the summer, this increase may be attributed to water expansion. In contrast, data for winter sea level displays faster and more powerful changes. Graph 3, covering multiple winters, emphasizes significant sea level variations during winters. The data reflect sea level and don't account for waves, therefore I chose to model sea level increase with a 0.5 and 1 meter rise on the maps. Wave and storm impact is expected beyond these levels[11].
+<p class="text-justify">Graphs 1-3 reveal annual, seasonal, and daily trends. Graph 2 shows moderate sea level elevation during the summer, this increase may be attributed to water expansion. In contrast, data for winter sea level displays faster and more powerful changes. Graph 3, covering multiple winters, emphasizes significant sea level variations during winters. The data reflect sea level and don't account for waves, therefore I chose to model sea level increase with a 0.5 and 1 meter rise on the maps. Wave and storm impact is expected beyond these levels[11].</p>
 
 The key finding is that existing height maps lack the needed resolution for accurate sea level rise analysis due to centimeter-scale changes. Map 1 vs. Map 2 compares SRTM limitations, even with improved data quality in Map 2. Higher resolution maps are needed in order to perform a reliable analysis, as part of the marked area is misclassified as the sea.
 

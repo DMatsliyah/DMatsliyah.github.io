@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <div class="row justify-content-center text-center">
-    <div class="col-md-8 mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/preview.jpg" title="out front matter" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-6 mt-3 mt-md-0 text-center">
+        {% include figure.html path="assets/img/preview.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

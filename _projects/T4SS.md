@@ -13,7 +13,7 @@ toc:
 
 This project is an M.Sc research project that was part of my masters' thesis, I was under the supervision of Dr. Einat Segev and have also been mentored by PhD student Yemima Duchin Rapp, in the Plant & Environmental Sciences department of the Weizmann Institute of Science. Parts of my work were featured in [this recent paper which was submitted not long ago](https://www.biorxiv.org/content/10.1101/2023.11.14.567099v2) so I won't be expanding too much on that here, but I will be giving some context and introduction before diving into the data analysis driven portion of the project. Also feel free to skip ahead to the '' section to get right into the data.
 
-<div class="row">
+<div class="row justify-content-">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/projects/t4ss/barentsbloom.jpg" title="Phytoplankton bloom, Barents Sea." class="img-fluid rounded z-depth-1" %}
     </div>
@@ -27,7 +27,7 @@ This project is an M.Sc research project that was part of my masters' thesis, I 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/Tuvalu_high_tide.jpg" title="Tuvaluans watch as the high tide inundates their island home on funafuti due to global warming induced sea level rise. Photo: Ashley Cooper / SCIENCE PHOTO LIBRARY." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

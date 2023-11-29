@@ -47,7 +47,7 @@ SRTM raster layers, providing high-quality data, were used for spatial analysis,
 
 ### Results
 #### Sea Level Graphs from the Israeli National Mapping Agency Data
-Plots 1, 2 and 3 are [available here](/assets/files/projects/gis_sea/SeaLevel.zip) in an interactive version together with the raw data and an R script used for the analysis, just click the .html files to open. 
+Plots 1, 2 and 3 are [available here](/assets/files/projects/gis_sea/SeaLevel.zip) in an interactive version together with the raw data and an R script used for the analysis, just click the .html files to open the plots. 
 
 <div class="row justify-content-center">
     <div class="col-md mt-3 mt-md-0 text-center">

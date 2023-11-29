@@ -17,8 +17,8 @@ Parts of my work were featured [in a very recent paper which was submitted not l
 
 Also feel free to skip ahead to the '' section to get right into the data. Or contact me if you'd wish to further discuss the biology. :nerd_face:
 
-<div class="row justify-content-">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/barentsbloom.jpg" title="Phytoplankton bloom, Barents Sea." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -30,7 +30,7 @@ Also feel free to skip ahead to the '' section to get right into the data. Or co
 ### Introduction
 
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/gis_sea/Tuvalu_high_tide.jpg" title="title" class="img-fluid rounded z-depth-1" %}
     </div>

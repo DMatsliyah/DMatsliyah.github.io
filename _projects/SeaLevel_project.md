@@ -143,7 +143,7 @@ In conclusion, inevitable sea level rise foresees considerable damage. Proactive
 ### My thoughts, three years later
 I've been re-reading and editing this project now (November 2023) to upload as part of my portfolio and I made some interesting new discoveries.
 
-At the time of writing the project, high resolution maps of Israel were unavailable due to the Kyl-Bingaman Amendment, limiting resolution to over 2 meters per pixel. something I was not aware of. However, while going back to this project I found out that this law was changed, with the new restriction set at 40 centimeters. Today, higher resolution maps of Israel are already available. I wonder what the data would say now :thinking:
+At the time of writing the project, high resolution maps of Israel were unavailable due to the [Kyl-Bingaman Amendment](https://en.wikipedia.org/wiki/Kyl%E2%80%93Bingaman_Amendment), limiting resolution to over 2 meters per pixel. something I was not aware of. However, while going back to this project I found out that this law was changed, with the new restriction set at 40 centimeters. Today, higher resolution maps of Israel are already available. I wonder what the data would say now :thinking:
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">

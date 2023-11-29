@@ -13,9 +13,7 @@ toc:
 
 This project is an M.Sc research project that was part of my masters' thesis, I was under the supervision of Dr. Einat Segev and have also been mentored by PhD student Yemima Duchin Rapp, in the Plant & Environmental Sciences department of the Weizmann Institute of Science. 
 
-Parts of my work were featured [in a very recent paper which was submitted not long ago](https://www.biorxiv.org/content/10.1101/2023.11.14.567099v2). Therefore I'll give brief context and introduction before diving into the data analysis driven portion of the project. 
-
-Also feel free to skip ahead to the '' section to get right into the data. Or contact me if you'd wish to further discuss the biology. :nerd_face:
+Parts of my work were featured [in a very recent paper which was submitted not long ago](https://www.biorxiv.org/content/10.1101/2023.11.14.567099v2). Therefore I'll only give very brief and partial introduction before diving into the data analysis driven portion of the project. Please read the paper if you want to read about the biology! :man_scientist: :microbe:
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -23,8 +21,20 @@ Also feel free to skip ahead to the '' section to get right into the data. Or co
     </div>
 </div>
 <div class="caption">
-    Phytoplankton bloom, Barents Sea. August 3rd, 2023. The image above was acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA's Terra satellite.
+    Phytoplankton bloom, Barents Sea. August 3rd, 2023. These seasonal blooms are where many different organisms interact, as well as the bacteria and micro-algae we study. The image above was acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA's Terra satellite.
 </div> 
+
+### Biological Introduction
+
+Horizontal gene transfer (HGT), vital in bacterial evolution, involves the transfer of genetic material between unrelated bacteria. Despite small genomes, bacteria display remarkable genetic variations, enabling adaptability and flexibility. HGT, through mechanisms like Transformation, Transduction, Gene Transfer Agents, and Conjugation, empowers bacteria to acquire new capabilities for symbiosis, antibiotic resistance, metabolic activity, and pathogenicity.
+
+A central mechanism for HGT is the type IV secretion system (T4SS), facilitating cell-to-cell contact and genetic material transfer. Many bacteria possess T4SS on plasmids or chromosomes, impacting their functionality. In the environmentally crucial Roseobacter group, T4SS genes vary in genomic locations, raising questions about their functional impact.
+
+Conjugation, a form of HGT, is suggested to contribute significantly to the ecological success of Roseobacters, known for diverse metabolic capabilities and symbiotic interactions, especially with algal hosts. Algal exudates, influencing bacterial physiology, may act as signals promoting bacterial HGT.
+
+Many Roseobacters interact with algal hosts, benefiting from algae's nutrient-rich exudates in the nutrient-poor ocean. This proximity supports nutrient flux for planktonic bacteria. Algal exudates impact bacterial physiology and interactions, promoting horizontal gene transfer (HGT) through bacterial proximity and attachment. Our study explores Roseobacter conjugation in the ecological context of the algal host *Emiliania huxleyi*. We utilized Roseobacter species identified in algal samples, testing their ability to conduct conjugation and examining the influence of T4SS genomic location. Additionally, we investigated the impact of algal exudates on bacterial conjugation, focusing on T4SS-encoding gene expression and DNA transfer.
+
+This study explored Roseobacter conjugation in the context of an algal host, using *Emiliania huxleyi*. While a chromosome-encoded T4SS did not lead to successful conjugation, a plasmid-encoded T4SS functioned. Surprisingly, expression of plasmid-encoded T4SS genes did not increase in response to algal exudates, yet conjugation efficiency and plasmid transfer improved. This suggests a connection between bacterial response to an algal host and an increased likelihood of successful conjugation. The difference in functionality of a plasmid-encoded, or a chromosomally encoded T4SS sparked my interest and led to the project I'm going to show you now!'
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,22 +48,10 @@ Also feel free to skip ahead to the '' section to get right into the data. Or co
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left, Emiliania huxleyi, an abundant coccolithophore in modern oceans. Middle, multiple cells of Phaeobacter inhibens bacteria, forming what we call a 'rosette'. Right, Phaeobacter inhibens attached to an Emiliania huxleyi cell.
 </div>
 
-
-### Introduction
-
-
-<div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/gis_sea/Tuvalu_high_tide.jpg" title="title" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    caption
-    
-</div>
+### Defining a research question and approach
 
 ### Materials and Methods
 

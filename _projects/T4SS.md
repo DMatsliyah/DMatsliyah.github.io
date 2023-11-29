@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "T4SS"
-description: Utilizing R & QGIS to inspect the possible effects of rising sea levels in Israel
+title: "Algae, bacteria, and the genetics in between"
+description: Bioinformatic research on bacterial genome architecture with regards to microbial interactions
 img: assets/img/projects/t4ss/ehuxPinhibens.jpg
 importance: 1
 category: Science
@@ -11,23 +11,20 @@ toc:
 
 ---
 
+This project is an M.Sc research project that was part of my masters' thesis, I was under the supervision of Dr. Einat Segev and have also been mentored by PhD student Yemima Duchin Rapp, in the Plant & Environmental Sciences department of the Weizmann Institute of Science. Parts of my work were featured in [this recent paper which was submitted not long ago](https://www.biorxiv.org/content/10.1101/2023.11.14.567099v2) so I won't be expanding too much on that here, but I will be giving some context and introduction before diving into the data analysis driven portion of the project. Also feel free to skip ahead to the '' section to get right into the data.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/gis_sea/gisPage.jpg" title="Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/t4ss/barentsbloom.jpg" title="Phytoplankton bloom, Barents Sea." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Bat Galim beach, Haifa. December 2016. Photo: Amir Ezer.
+    Phytoplankton bloom, Barents Sea. August 3rd, 2023. The image above was acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite.
 </div>
-
-This project is a B.Sc level GIS project made during 'GIS Data analysis' class, looking into possible damages that could occur with increasing sea levels. Guided by Dr. Yair Suari.
 
 
 ### Introduction
 
-Researchers globally strive to comprehend factors linked to global warming, aiming to devise solutions to mitigate its impact. Global warming, driven by various anthropogenic and biogeochemical factors[1], results from greenhouse gas emissions and their atmospheric accumulation, influencing Earth's climate variables such as surface temperature, precipitation, humidity, and sea level.
-
-Sea level rise primarily stems from water expansion due to temperature increase and continental glacier melting[2][3]. The 2014 IPCC report forecasts a sea level rise of 25-82 cm in the next century[4]. In Israel, rising sea levels pose threats beyond flooding, including seawater intrusion, sand erosion, and cliff collapse, intensified by increased extreme weather events[5]. This research aims to assess the impact of sea level rise on Israel's coasts.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,9 +38,6 @@ Sea level rise primarily stems from water expansion due to temperature increase 
 
 ### Materials and Methods
 
-Data and models were collected from official sources, including global sea water levels from NASA's satellite measurements since 1993[1], historical sea level change data from the 2014 IPCC report[4], and sea level data from Israel Mapping Office (MPI) for 1996-2020[8]. RStudio processed approximately 2.4 million map measurements, determining two sea level rise steps (0.5 and 1 meter) presented on maps.
-
-SRTM raster layers, providing high-quality data, were used for spatial analysis, with an additional raster focused on the fishing trawl area for higher resolution[9]. QGIS software facilitated digitization, raster analysis, and visual illustration, focusing on the fishing trawler area and Haifa Bay.
 
 ### Results
 #### Sea Level Graphs from the Israeli National Mapping Agency Data

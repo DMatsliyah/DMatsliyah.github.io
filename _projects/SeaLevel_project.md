@@ -27,7 +27,7 @@ This project is a B.Sc level GIS project made during 'GIS Data analysis' class, 
 
 Researchers globally strive to comprehend factors linked to global warming, aiming to devise solutions to mitigate its impact. Global warming, driven by various anthropogenic and biogeochemical factors[^1], results from greenhouse gas emissions and their atmospheric accumulation, influencing Earth's climate variables such as surface temperature, precipitation, humidity, and sea level.
 
-Sea level rise primarily stems from water expansion due to temperature increase and continental glacier melting[^2],[^3]. The 2014 IPCC report forecasts a sea level rise of 25-82 cm in the next century[^4]. In Israel, rising sea levels pose threats beyond flooding, including seawater intrusion, sand erosion, and cliff collapse, intensified by increased extreme weather events[^5]. This research aims to assess the impact of sea level rise on Israel's coasts.
+Sea level rise primarily stems from water expansion due to temperature increase and continental glacier melting[^2],[^3]. The 2014 IPCC report forecasts a sea level rise of 25-82 cm in the next century[^4]. In Israel, rising sea levels pose threats beyond flooding, including seawater intrusion, sand erosion, and cliff collapse, intensified by increased extreme weather events[^5],[^6],[^7]. This research aims to assess the impact of sea level rise on Israel's coasts.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

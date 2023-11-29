@@ -19,8 +19,8 @@ This project is an M.Sc research project that was part of my masters' thesis, I 
     </div>
 </div>
 <div class="caption">
-    Phytoplankton bloom, Barents Sea. August 3rd, 2023. The image above was acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite.
-</div>
+    Phytoplankton bloom, Barents Sea. August 3rd, 2023. The image above was acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA's Terra satellite.
+</div> 
 
 
 ### Introduction

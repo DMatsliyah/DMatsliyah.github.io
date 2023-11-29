@@ -2,7 +2,7 @@
 layout: page
 title: "T4SS"
 description: Utilizing R & QGIS to inspect the possible effects of rising sea levels in Israel
-img: assets/img/projects/gis_sea/gisCard.jpg
+img: assets/img/projects/t4ss/ehuxPinhibens.jpg
 importance: 1
 category: Science
 giscus_comments: true

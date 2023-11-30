@@ -69,8 +69,15 @@ Surprisingly, the bacteria's response to algae didn't make the T4SS on plasmids 
 So, this study explored how bacteria, specifically Roseobacters, share information in the context of their interaction with algae. The differences in how the plasmid and main instruction manual versions of T4SS work caught the our attention and inspired the project I'm showing next.
 
 ### Defining a research question and approach
+Seeing as there's a functional difference between these systems depending on their encoding location, we defined our research question as 'What is the difference between chromosomally or plasmid encoded T4SS and can it explain conjugation ability?'
+
+We began approaching this question experimentally and planned designs of several mutant strains, however, technical difficulties and time limits of my studies made us recalculate. 
+
+I've decided to move on with a bioinformatic approach, focusing on data analysis in order to address the question on a larger scale by collecting data from numerous bacterial strains. The first step would be to create a dataset.
 
 ### Data Retreival and Handeling
+
+
 #### Data Retreival
 #### Data Cleaning and Transformation
 #### Tools and methods used for analysis

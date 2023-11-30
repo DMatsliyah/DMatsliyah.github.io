@@ -15,7 +15,7 @@ This project is an M.Sc research project that was part of my masters' thesis, I 
 
 Parts of my work were featured [in a very recent paper which was submitted not long ago](https://www.biorxiv.org/content/10.1101/2023.11.14.567099v2). Therefore I'll only give very brief and partial introduction before diving into the data analysis driven portion of the project. Please read the paper if you want to read about the biology! :man_scientist: :microbe:
 
-Not a biologist? No worries! You can [skip the biology and go straight into my data analysis project!](#Defining a research question and approach).
+Not a biologist? No worries! You can [skip the biology and go straight into my data analysis project!](#defining-a-research-question-and-approach).
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">

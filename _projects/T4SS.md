@@ -166,7 +166,9 @@ One of the more resource-intensive analyses I've done was focused on sequence co
 
 Amino acid sequence alignments were done in MAFFT v7.490 2021 using E-INS-i alignment strategy and output format set as sorted Phylip format (--genafpair  --maxiterate 16 --phylipout --reorder)45,46. Alignments were then processed using Python scripts written for this study, purging unsupported characters from sequence titles, preparing the alignments to PHYLIP algorithms. Next alignments were bootstrapped using PHYLIP Seqboot algorithm. Seqboot output was analyzed by PHYLIP ProML whose output was sent into PHYLIP Consense for computing a consensus tree47. The output was then processed by a Python script replacing numeric sequence IDs with scientific names of organisms and encoding loci based on online data integration. Python 3.9.12 was used with libraries os, network, pylab, Phylo, sys, matplotlib, pandas, selenium, Bio and re. Output image files containing trees were manually colored. Other alignments were also visualized using ESPript online service.48 
 flowchart below
+
 {% mermaid %}
+
 flowchart LR
     A([MAFFT 
     Sequence alignment]) --> B([Text processing 
@@ -180,11 +182,9 @@ flowchart LR
         tree computing])
         E --> F([Phylogenetic tree drawing 
         using Python])
-    
-
     end
-{% endmermaid %}
 
+{% endmermaid %}
 
 Amino acid sequences of each studied Vir protein family found in Roseobacters were aligned and then processed in a phylogenetic pipeline for clustering and tree-drawing. The resulted datasets of each family were used for phylogenetic analysis. In one example, for T4SS gene virB8, 569 virB8 sequences were used, out of which 28 are encoded on chromosomes and 541 on plasmids. On the tree, most CE-virB8 sequences cluster together, with only 4 outlier sequences which cluster within PE-virB8 clusters (Fig. 10). the clear distinction between the two groups suggests recent incorporation of these plasmid virB8 genes (and the whole operons) into the chromosomes of their hosts. The consensus sequences of each alignment, PE and CE-T4SS, were taken and aligned to the other. Sequence alignment between consensus sequences of PE and CE sequences shows that the proteins are mostly conserved, yet some differences are visible. By definitions formerly suggested in the literature, most changes seem conservative or moderately conservative, suggesting such changes would preserve protein structure and properties68,69. However, eight of the variable positions present changes that are classified as moderately radical and may affect protein structure and properties. (Fig. S6)
 

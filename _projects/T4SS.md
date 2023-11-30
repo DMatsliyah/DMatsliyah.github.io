@@ -15,7 +15,7 @@ This project is an M.Sc research project that was part of my masters' thesis, I 
 
 Parts of my work were featured [in a very recent paper which was submitted not long ago](https://www.biorxiv.org/content/10.1101/2023.11.14.567099v2). Therefore I'll only give very brief and partial introduction before diving into the data analysis driven portion of the project. Please read the paper if you want to read about the biology! :man_scientist: :microbe:
 
-Not a biologist? No worries! You can [skip the biology and go straight into my data analysis project!](#defining-a-research-question-and-approach).
+Not a biologist? No worries! You can [skip the biology and go through a much simpler explanation of what's going on](#introduction-for-non-biologists) or you can [go straight into my data analysis project!](#defining-a-research-question-and-approach).
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -52,6 +52,21 @@ This study explored Roseobacter conjugation in the context of an algal host, usi
 <div class="caption">
     On the left, Emiliania huxleyi, an abundant coccolithophore in modern oceans. Middle, multiple cells of Phaeobacter inhibens bacteria, forming what we call a 'rosette'. Right, Phaeobacter inhibens attached to an Emiliania huxleyi cell.
 </div>
+
+### Introduction for non-biologists
+*You can [skip ahead](#defining-a-research-question-and-approach) if you've read the previous introduction segment.*
+
+Imagine bacteria as tiny living beings with small instruction manuals inside them, guiding how they grow and function. Sometimes, these bacteria share parts of their instruction manuals with each other. This sharing, called Horizontal Gene Transfer (HGT), helps them adapt to different challenges.
+
+Now, one way bacteria share information is through something called the type IV secretion system (T4SS). It's like a tiny delivery system that allows bacteria to pass on their instruction manuals to other bacteria nearby. Some bacteria have this system on small circular structures called plasmids, while others have it in their main instruction manual (chromosome).
+
+In a specific group of bacteria called Roseobacters, we found that the T4SS genes are in different places in their instruction manuals. One interesting thing about Roseobacters is their interactions with algae, like tiny plant-like organisms in the ocean. These bacteria benefit from the nutrients that algae release, helping them grow. The study looked at how these bacteria interact with algae, focusing on the T4SS.
+
+We tested different Roseobacter species to see how they share information, and found that the T4SS on plasmids works well, while the one on the chromosome (main instruction manual) doesn't work as effectively.
+
+Surprisingly, the bacteria's response to algae didn't make the T4SS on plasmids work better, but the bacteria still shared information more efficiently. This suggests that the way bacteria react to algae somehow helps them share their instruction manuals better.
+
+So, this study explored how bacteria, specifically Roseobacters, share information in the context of their interaction with algae. The differences in how the plasmid and main instruction manual versions of T4SS work caught the our attention and inspired the project I'm showing next.
 
 ### Defining a research question and approach
 

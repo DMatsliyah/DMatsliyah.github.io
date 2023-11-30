@@ -55,20 +55,18 @@ This study explored Roseobacter conjugation in the context of an algal host, usi
 
 ### Defining a research question and approach
 
-### Materials and Methods
-
+### Data Retreival and Handeling
+#### Data Retreival
+#### Data Cleaning and Transformation
+#### Tools and methods used for analysis
+Include R, Python, Linux and linux based tools (PHYLIP, sequence alignment and such). mention online domain analyses services very briefly in non-biological manner.
 
 ### Results
-#### Sea Level Graphs from the Israeli National Mapping Agency Data
-
-#### Relevant Tables and Graphs from the 2014 IPCC Report
-
-#### QGIS Maps
+#### Copy from thesis
+#### Yes that includes the heatmap. I don't know how it will fit though
+#### and such and such
 
 ### Discussion & Conclusions
-
-### My thoughts, two years later
-
 
 ### References
 

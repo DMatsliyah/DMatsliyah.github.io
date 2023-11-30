@@ -101,10 +101,10 @@ Protein sequences files also required attention throughout the pipeline, mainly 
 </div>
 
 #### Tools and methods used for analysis
-Beyond analyses done using R and 
-Include R, Python, Linux and linux based tools (PHYLIP, sequence alignment and such). mention online domain analyses services very briefly in non-biological manner.
+Beyond analyses done using R, designated tools for sequence analyses were used in this work. Web-based apps like [InterProScan](https://www.ebi.ac.uk/interpro/), for classification of protein families. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), a sequence alignment tool. And other offline, linux based applications as [MAFFT sequence alignment program](https://mafft.cbrc.jp/alignment/server/) and [PHYLIP program suite, for phylogenetic analyses](https://phylipweb.github.io/phylip/).
 
 ### Results
+
 #### Copy from thesis
 #### Yes that includes the heatmap. I don't know how it will fit though
 #### and such and such

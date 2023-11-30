@@ -118,7 +118,10 @@ Due to the large amount of data, and since we're now looking into the distributi
   Gene distribution heatmap in Roseobacters. The columns present genes, rows correspond to operons of specific strains. The rightmost column shows the predicted encoding location (plasmid or chromosome). Colors in the body of the table the indicate gene copy numbers. Rows are clustered by encoding loci.
 </div>
 
-The first noticeable anomaly is the absence of VirB1 genes. What's not shown here is how VirB7 is missing completely, and therfore is not plotted. The literature isn't conclusive on these genes' importance for conjugation. Some suggest they're essential, while others argue they're dispensable. However the functions their said to perform may be critical for conjugation. Given these extreme findings, I questioned the validity of the data. To perform a sanity check, I conducted a thorough analysis of our model strains.
+The heatmap shows so much! You can tell there's lots of variance in the gene distribution, clearly most systems are encoded on plasmids. Also there seem to be a variety of unique plasmids, but we'll touch more on that later.
+
+The first noticeable anomaly is the absence of VirB1 genes. What's not shown here is how VirB7 is missing completely, and therfore is not plotted. The literature isn't conclusive on these genes' importance for conjugation. Some suggest they're essential, while others argue they're dispensable. However the functions their said to perform may be critical for conjugation. Given these extreme findings, I questioned the validity of the data. To perform a sanity check, I conducted a thorough analysis of the genes comprising the system in our model strains.
+
 
 ##### Thorough (t4sslayout)
 
@@ -132,7 +135,10 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 </div>
 
 
-#### unique pOTUs 
+#### unique plasmid Operational Taxonomic Units 
+Researchers at the JGI came up with a tool to identify mobile genetic elements[^camarago]. The idea is that plasmids that are have very close evolutionary relations, can be clustered and be named with the same "plasmid Operational Taxonomic Unit" (pOTU). We can use this type of analysis to determine plasmids of unique ancestry.
+
+From this data we can see that distribution of unique pOTUs in Roseobacters varies significantly. The majority (372) of plasmids are unique to a single strain, indicating diverse plasmid arrays. Conversely, 18 genomes share a single pOTU, suggesting enhanced HGT potential.
 
 <div class="row justify-content-center">
     <div class="col-sm-7 mt-3 mt-md-0 text-center">
@@ -142,6 +148,8 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 <div class="caption">
   Unique pOTUs abundance in Roseobacters. X axis shows how many times a unique pOTU is found across all Roseobacter genomes. Y axis shows the number of unique pOTUs (also indicated above each bar).
 </div>
+
+Distinct gene distributions are observed in pOTUs that are common to more than 6 genomes in the Roseobacter group. Most operons within the same pOTU share similar function profiles like we see in the heatmap below. For example, PTU_00024961 and PTU_00009131 exhibit a conservative pattern, indicating a relatively recent transfer. In contrast, pOTUs like PTU_000002018, PTU_000000120, and PTU_000000141 show lower conservation and significant variance among plasmids carrying the same pOTU.
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -165,4 +173,4 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 ### Discussion & Conclusions
 
 ### References
-
+  [^camarago]: Camargo, A. P. et al. Identification of mobile genetic elements with geNomad. Nat Biotechnol 1-10 (2023) doi:10.1038/s41587-023-01953-y.

@@ -118,10 +118,41 @@ Due to the large amount of data, and since we're now looking into the distributi
   Gene distribution heatmap in Roseobacters. The columns present genes, rows correspond to operons of specific strains. The rightmost column shows the predicted encoding location (plasmid or chromosome). Colors in the body of the table the indicate gene copy numbers. Rows are clustered by encoding loci.
 </div>
 
-The first noticeable anomaly is the absence of VirB1 genes. What's not shown here is how VirB7 is missing completely, and therfore is not even plotted. The literature isn't conclusive on these genes' importance for conjugation. Some suggest they're essential, while others argue they're dispensable. However the functions their said to perform may be critical for conjugation. Given these extreme findings, I questioned the validity of the data. To perform a sanity check, I conducted a thorough analysis of our model strains.
+The first noticeable anomaly is the absence of VirB1 genes. What's not shown here is how VirB7 is missing completely, and therfore is not plotted. The literature isn't conclusive on these genes' importance for conjugation. Some suggest they're essential, while others argue they're dispensable. However the functions their said to perform may be critical for conjugation. Given these extreme findings, I questioned the validity of the data. To perform a sanity check, I conducted a thorough analysis of our model strains.
 
-#### Yes that includes the heatmap. I don't know how it will fit though
-#### and such and such
+##### Thorough (t4sslayout)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/T4SSlayout.png" title="Unique pOTUs abundance in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  Unique pOTUs abundance in Roseobacters. X axis shows how many times a unique pOTU is found across all Roseobacter genomes. Y axis shows the number of unique pOTUs (also indicated above each bar).
+</div>
+
+
+#### unique pOTUs 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/uniquePOTUplot.png" title="VirB/D operon genes distribution in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  VirB/D operon genes distribution in Roseobacters. A subset data for pOTUs appearing in more than 6 Roseobacter genomes was used to generate a heatmap. Columns present genes, rows correspond to strains. Colors of the heatmap indicate the copy number for each gene (0-2, see legend on the right). Rightmost column (pOTU) shows the classification of plasmid OTUs.
+</div>
+
+#### Sequences encoded on chromosomes are distinct from sequences encoded on plasmids
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/virB8tree.jpg" title="virB8 protein maximum likelihood tree" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  virB8 protein maximum likelihood tree. X axis presents branch length in arbitrary units, Y axis shows different taxa. Yellow markers represent T4SS operons encoded on chromosome, blue markers stands for T4SS operons encoded on plasmid. Black arrows mark instances of chromosomal sequences clustered in plasmid-encoded-dominant clusters. Trees were generated using sequence alignment analyzed by PHYLIP proML and colored manually. 
+</div>
 
 ### Discussion & Conclusions
 

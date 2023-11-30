@@ -76,10 +76,16 @@ We began approaching this question experimentally and planned designs of several
 I've decided to move on with a bioinformatic approach, focusing on data analysis in order to address the question on a larger scale by collecting data from numerous bacterial strains. The first step would be to create a dataset.
 
 ### Data Retreival and Handeling
-
-
 #### Data Retreival
+The first step was to gather all relevant data. We started by mapping out all the relevant genes associated with our system on [KEGG](https://www.genome.jp/kegg/). Next, we produced function profiles listing the number of copies of each gene per bacterial scaffold using [JGI's IMG/MER database](https://img.jgi.doe.gov/cgi-bin/mer/main.cgi) and matching with the unique IDs we previously gathered. Additionally, we downloaded all protein sequences files.
+
+Retrieval of protein sequences had to be automated using the Selenium library in Python due to the large quantity of sequences (over 6,000). The script interacts with [JGI's IMG/MER interfaces](https://img.jgi.doe.gov/cgi-bin/mer/main.cgi) for genomic data.
+
+In total, we gathered several thousands of lines of data, and several thousands of protein sequences to analyze.
+
 #### Data Cleaning and Transformation
+
+
 #### Tools and methods used for analysis
 Include R, Python, Linux and linux based tools (PHYLIP, sequence alignment and such). mention online domain analyses services very briefly in non-biological manner.
 

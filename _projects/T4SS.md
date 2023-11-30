@@ -84,7 +84,21 @@ Retrieval of protein sequences had to be automated using the Selenium library in
 In total, we gathered several thousands of lines of data, and several thousands of protein sequences to analyze.
 
 #### Data Cleaning and Transformation
+Tables containing function profiles had to be merged with metadata tables using R and the dplyr package in R. Cleaning the data included renaming mislabeled columns, treating missing data with NA and overall reorganization of the dataset.
 
+Protein sequences files also required attention throughout the pipeline, mainly requiring text manipulation on file names. This was done using linux and python.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/function_profile_cleaning.png" title="Function profile data" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/metadata_cleaning.png" title="Genomic metadata" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+  Lots of raw data to handle!
+</div>
 
 #### Tools and methods used for analysis
 Include R, Python, Linux and linux based tools (PHYLIP, sequence alignment and such). mention online domain analyses services very briefly in non-biological manner.

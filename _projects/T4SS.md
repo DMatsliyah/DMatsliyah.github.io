@@ -159,8 +159,10 @@ Distinct gene distributions are observed in pOTUs that are common to more than 6
 <div class="caption">
   VirB/D operon genes distribution in Roseobacters. A subset data for pOTUs appearing in more than 6 Roseobacter genomes was used to generate a heatmap. Columns present genes, rows correspond to strains. Colors of the heatmap indicate the copy number for each gene (0-2, see legend on the right). Rightmost column (pOTU) shows the classification of plasmid OTUs.
 </div>
-#### Sequences encoded on chromosomes are distinct from sequences encoded on plasmids
 
+
+#### Sequences encoded on chromosomes are distinct from sequences encoded on plasmids
+One of the more resource-intensive analyses I've done was focused on sequence comparison. 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/virB8tree.jpg" title="virB8 protein maximum likelihood tree" class="img-fluid rounded z-depth-1" zoomable=true %}

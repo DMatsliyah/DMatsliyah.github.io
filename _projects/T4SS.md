@@ -109,8 +109,8 @@ Even before we deal with our question directly, exploring the data and getting t
 
 Due to the large amount of data, and since we're now looking into the distribution of genes I thought the best way to visualize it would be to show the gene distribution on a heatmap. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/big_heatmap.png" title="Type IV secretion system gene distribution in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -122,8 +122,8 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 
 ##### Thorough (t4sslayout)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/T4SSlayout.png" title="Schematic T4SS operon layout for P. inhibens strains P72 and DSM 17395" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -134,8 +134,8 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 
 #### unique pOTUs 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/uniquePOTUplot.png" title="Unique pOTUs abundance in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -143,8 +143,8 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
   Unique pOTUs abundance in Roseobacters. X axis shows how many times a unique pOTU is found across all Roseobacter genomes. Y axis shows the number of unique pOTUs (also indicated above each bar).
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/pOTU_heatmap.png" title="VirB/D operon genes distribution in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
@@ -153,8 +153,8 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 </div>
 #### Sequences encoded on chromosomes are distinct from sequences encoded on plasmids
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/virB8tree.jpg" title="virB8 protein maximum likelihood tree" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

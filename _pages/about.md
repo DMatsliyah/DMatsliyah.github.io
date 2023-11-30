@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Do you smell that? Something is cooking. This website is still a work in progress.
 

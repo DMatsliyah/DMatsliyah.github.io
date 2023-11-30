@@ -89,10 +89,10 @@ Tables containing function profiles had to be merged with metadata tables using 
 Protein sequences files also required attention throughout the pipeline, mainly requiring text manipulation on file names. This was done using linux and python.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-md-0">
         {% include figure.html path="assets/img/projects/t4ss/function_profile_cleaning.png" title="Function profile data" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-md-0">
         {% include figure.html path="assets/img/projects/t4ss/metadata_cleaning.png" title="Genomic metadata" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -101,6 +101,7 @@ Protein sequences files also required attention throughout the pipeline, mainly 
 </div>
 
 #### Tools and methods used for analysis
+Beyond analyses done using R and 
 Include R, Python, Linux and linux based tools (PHYLIP, sequence alignment and such). mention online domain analyses services very briefly in non-biological manner.
 
 ### Results

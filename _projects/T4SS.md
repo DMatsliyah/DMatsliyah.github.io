@@ -135,7 +135,7 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 #### unique pOTUs 
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm-7 mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/uniquePOTUplot.png" title="Unique pOTUs abundance in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

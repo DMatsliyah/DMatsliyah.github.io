@@ -124,11 +124,11 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/t4ss/T4SSlayout.png" title="Unique pOTUs abundance in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/projects/t4ss/T4SSlayout.png" title="Schematic T4SS operon layout for P. inhibens strains P72 and DSM 17395" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-  Unique pOTUs abundance in Roseobacters. X axis shows how many times a unique pOTU is found across all Roseobacter genomes. Y axis shows the number of unique pOTUs (also indicated above each bar).
+  Schematic T4SS operon layout for P. inhibens strains P72 and DSM 17395. A.  Layout of P. inhibens P72 pP72b operon. B. Layout of P. inhibens P72 pP72e operon. C. Layout of P. inhibens DSM 17395 operon.
 </div>
 
 
@@ -136,13 +136,21 @@ The first noticeable anomaly is the absence of VirB1 genes. What's not shown her
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/t4ss/uniquePOTUplot.png" title="VirB/D operon genes distribution in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/projects/t4ss/uniquePOTUplot.png" title="Unique pOTUs abundance in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  Unique pOTUs abundance in Roseobacters. X axis shows how many times a unique pOTU is found across all Roseobacter genomes. Y axis shows the number of unique pOTUs (also indicated above each bar).
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/pOTU_heatmap.png" title="VirB/D operon genes distribution in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
   VirB/D operon genes distribution in Roseobacters. A subset data for pOTUs appearing in more than 6 Roseobacter genomes was used to generate a heatmap. Columns present genes, rows correspond to strains. Colors of the heatmap indicate the copy number for each gene (0-2, see legend on the right). Rightmost column (pOTU) shows the classification of plasmid OTUs.
 </div>
-
 #### Sequences encoded on chromosomes are distinct from sequences encoded on plasmids
 
 <div class="row">

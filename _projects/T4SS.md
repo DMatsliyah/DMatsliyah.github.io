@@ -104,8 +104,22 @@ Protein sequences files also required attention throughout the pipeline, mainly 
 Beyond analyses done using R, designated tools for sequence analyses were used in this work. Web-based apps like [InterProScan](https://www.ebi.ac.uk/interpro/), for classification of protein families. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), a sequence alignment tool. And other offline, linux based applications as [MAFFT sequence alignment program](https://mafft.cbrc.jp/alignment/server/) and [PHYLIP program suite, for phylogenetic analyses](https://phylipweb.github.io/phylip/).
 
 ### Results
+#### Target genes' distribution in Roseobacters reveals missing pieces
+Even before we deal with our question directly, exploring the data and getting to know it reveals lots of interesting observations and generate more questions.
 
-#### Copy from thesis
+Due to the large amount of data, and since we're now looking into the distribution of genes I thought the best way to visualize it would be to show the gene distribution on a heatmap. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/t4ss/big_heatmap.png" title="Type IV secretion system gene distribution in Roseobacters" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  Gene distribution heatmap in Roseobacters. The columns present genes, rows correspond to operons of specific strains. The rightmost column shows the predicted encoding location (plasmid or chromosome). Colors in the body of the table the indicate gene copy numbers. Rows are clustered by encoding loci.
+</div>
+
+The first noticeable anomaly is the absence of VirB1 genes. What's not shown here is how VirB7 is missing completely, and therfore is not even plotted. The literature isn't conclusive on these genes' importance for conjugation. Some suggest they're essential, while others argue they're dispensable. However the functions their said to perform may be critical for conjugation. Given these extreme findings, I questioned the validity of the data. To perform a sanity check, I conducted a thorough analysis of our model strains.
+
 #### Yes that includes the heatmap. I don't know how it will fit though
 #### and such and such
 

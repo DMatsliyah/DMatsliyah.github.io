@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "What do you get when you cross a pirate with a data scientist? Someone who specializes in Rrrr"
+subtitle: What do you get when you cross a pirate with a data scientist? Someone who specializes in Rrrr
 
 profile:
   align: right
@@ -17,9 +17,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<div>
 
-</div>
+***
+
 I'm a music enthusiast, nature lover and gym rat on a nonstop journey of self growth, learning and expanding my horizons.
 
  :man_student: I recently finished my M\.Sc in Life Sciences studies at the [Weizmann Institute of Science](https://weizmann.ac.il/)!  <br/>

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "What do you get when you cross a pirate with a data scientist? Answer: Someone who specializes in Rrrr"
+subtitle: "What do you get when you cross a pirate with a data scientist? Someone who specializes in Rrrr"
 
 profile:
   align: right

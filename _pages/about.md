@@ -6,7 +6,7 @@ subtitle: "What do you get when you cross a pirate with a data scientist? Someon
 
 profile:
   align: right
-  image: me3.jpg # , it directly goes to /assets/img so no need to put the entire path
+  image: me3.png # , it directly goes to /assets/img so no need to put the entire path
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Oh hi!</p> 

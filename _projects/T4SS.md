@@ -19,7 +19,7 @@ Not a biologist? No worries! You can [skip the biology and go through a much sim
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.html path="assets/img/projects/t4ss/barentsbloom.jpg" title="Phytoplankton bloom, Barents Sea." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/t4ss/barentsbloom.jpg" title="Phytoplankton bloom, Barents Sea." class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -40,13 +40,13 @@ This study explored Roseobacter conjugation in the context of an algal host, usi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/t4ss/ehux.jpg" title="Emiliania huxleyi" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/t4ss/ehux.jpg" title="Emiliania huxleyi" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/t4ss/PIrosette.png" title="Phaeobacter inhibens bacteria form beautiful rosettes" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/t4ss/PIrosette.png" title="Phaeobacter inhibens bacteria form beautiful rosettes" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/t4ss/ehuxPinhibens.jpg" title="Phaeobacter inhibens attached to an Emiliania huxleyi cell" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/t4ss/ehuxPinhibens.jpg" title="Phaeobacter inhibens attached to an Emiliania huxleyi cell" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

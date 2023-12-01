@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Hi there! 
+subtitle: "What do you get when you cross a pirate with a data scientist? Answer: Someone who specializes in Rrrr"
 
 profile:
   align: right
   image: me2.jpg # , it directly goes to /assets/img so no need to put the entire path
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p></p> 
+    <p>Oh hi!</p> 
 
 
 news: true  # includes a list of news items

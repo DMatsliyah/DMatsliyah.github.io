@@ -10,9 +10,4 @@ Gemfile.lock
 vendor
 
 _unused
-
-# testing pages to ignore from website deployment
-_pages/about_einstein.md
-_pages/teaching.md
-profiles.md
-_pages/publications.md
+.vs

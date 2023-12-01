@@ -97,7 +97,7 @@ Protein sequences files also required attention throughout the pipeline, mainly 
 </div>
 
 #### Tools and methods used for analysis
-Beyond analyses done using R, designated tools for sequence analyses were used in this work. Web-based apps like [InterProScan](https://www.ebi.ac.uk/interpro/), for classification of protein families. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), a sequence alignment tool. And other offline, linux based applications as [MAFFT sequence alignment program](https://mafft.cbrc.jp/alignment/server/) and [PHYLIP program suite, for phylogenetic analyses](https://phylipweb.github.io/phylip/).
+Beyond analyses done using **R**, designated tools for sequence analyses were used in this work. Web-based apps like [InterProScan](https://www.ebi.ac.uk/interpro/), for classification of protein families. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), a sequence alignment tool. And other offline, **linux based applications** as [MAFFT sequence alignment program](https://mafft.cbrc.jp/alignment/server/) and [PHYLIP program suite, for phylogenetic analyses](https://phylipweb.github.io/phylip/).
 
 ### Results
 #### Target genes' distribution in Roseobacters reveals missing pieces
@@ -205,7 +205,7 @@ In conclusion, exploration into the T4SS presented several interesting observati
 Although certain questions remain, particularly regarding the evolutionary scenarios and the precise roles of specific proteins, this study lays a foundation for future investigations in understanding the complex interplay between algae and bacterial conjugation within the Roseobacter group.
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="col-sm-7 mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/projects/t4ss/comics.jfif" title="Bacteria performing conjugation. Picture by Noémie Matthey" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

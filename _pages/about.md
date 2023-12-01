@@ -17,8 +17,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<div>
 
-I'm a music enthusiast, nature lover, gym rat and I'm on a constant journey of self growth, learning and expanding my horizons.
+</div>
+I'm a music enthusiast, nature lover and gym rat on a nonstop journey of self growth, learning and expanding my horizons.
 
  :man_student: I recently finished my M\.Sc in Life Sciences studies at the [Weizmann Institute of Science](https://weizmann.ac.il/)!  <br/>
 

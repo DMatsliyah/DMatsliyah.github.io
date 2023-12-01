@@ -9,7 +9,7 @@ profile:
   image: me3.png # , it directly goes to /assets/img so no need to put the entire path
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Oh hi!</p> 
+    <p align="right">Oh hi!</p> 
 
 
 news: true  # includes a list of news items

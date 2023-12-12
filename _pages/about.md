@@ -26,5 +26,5 @@ I'm a music enthusiast, nature lover and gym rat on a nonstop journey of self gr
 
  :bar_chart: I'm interested in data analysis, AI, machine learning and making data driven decisions.:robot: <br/> 
 
- 🔭 I’m currently working on expanding my new website, and improving my skills in SQL, Python, and others.:man_technologist: <br/>
+ 🔭 I’m currently participating in a mentored NLP project on Kaggle and working on completing the [py4e](www.py4e.com) course.:man_technologist: <br/>
 

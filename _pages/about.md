@@ -20,11 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a music enthusiast, nature lover and gym rat on a nonstop journey of self growth, learning and expanding my horizons.
 
- :man_student: I recently finished my M\.Sc in Life Sciences studies at the [Weizmann Institute of Science](https://weizmann.ac.il/)!  <br/>
+ :man_student: I'm a Marine Biotechnology graduate, with an M.Sc in Life Sciences from the [Weizmann Institute of Science](https://weizmann.ac.il/).  <br/>
 
  :man_scientist: My research focused on studying microbial interactions in the marine environment!:microbe:  <br/>
 
- :bar_chart: I'm interested in data analysis, AI, machine learning and making data driven decisions.:robot: <br/> 
+ 💊 I work as a Regulatory Affairs Associate in the pharma industry. <br/>
+ 
+ :robot: I'm always interested in learning more, and play around with code every once in a while. <br/> 
 
  🔭 I’m currently working on expanding my SQL skills and working on completing the [py4e](https://www.py4e.com) course.:man_technologist: <br/>
 

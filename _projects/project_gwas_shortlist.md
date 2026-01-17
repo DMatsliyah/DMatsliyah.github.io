@@ -167,7 +167,7 @@ These outputs are designed to be reviewable and reusable.
 ---
 
 ## Reproducibility
-
+You can find the archived project files [here](/assets/files/projects/GWAS/project_gwas.rar)
 The repository includes:
 - a single notebook implementing the workflow
 - exported CSV outputs for inspection

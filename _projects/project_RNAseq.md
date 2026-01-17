@@ -99,7 +99,7 @@ Interpretation notes:
 
 <div class="row justify-content-center">
   <div class="col-md mt-3 mt-md-0 text-center">
-    {% include figure.html path="assets/img/projects/rnaseq_nafld/roc_curve.png" title="ROC curve on one held-out test split." class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.html path="assets/img/projects/bioinfo/rnaseq_classifier/roc_curve.png" title="ROC curve on one held-out test split." class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 <div class="caption">
@@ -162,3 +162,4 @@ Produced by the notebook:
 A compressed archive containing the files needed to run this pipeline can be [downloaded here](/assets/files/projects/rna_seq/RNAseq_classifier.zip)
 
 ---
+

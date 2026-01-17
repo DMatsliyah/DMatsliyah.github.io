@@ -28,5 +28,3 @@ I'm a music enthusiast, nature lover and gym rat on a nonstop journey of self gr
  
  :robot: I'm always interested in learning more, and play around with code every once in a while. <br/> 
 
- 🔭 I’m currently working on expanding my SQL skills and working on completing the [py4e](https://www.py4e.com) course.:man_technologist: <br/>
-

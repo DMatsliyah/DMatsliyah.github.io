@@ -159,7 +159,8 @@ Produced by the notebook:
 
 ## Reproducibility
 
-A compressed archive containing the files needed to run this pipeline can be [downloaded here](/assets/files/projects/rna_seq/RNAseq_classifier.zip)
+A compressed archive containing the files needed to run this pipeline can be [downloaded here](/assets/files/projects/rna_seq/RNAseq_classifier.rar)
 
 ---
+
 

@@ -3,7 +3,7 @@ layout: page
 title: "RNA-seq NAFL vs NASH classifier"
 description: A cautious, leakage-safe ML workflow on bulk liver RNA-seq
 img: assets/img/projects/bioinfo/rnaseq_classifier/rnaseqCard.jpg
-importance: 3
+importance: 4
 category: Science
 giscus_comments: true
 toc:
@@ -162,5 +162,6 @@ Produced by the notebook:
 A compressed archive containing the files needed to run this pipeline can be [downloaded here](/assets/files/projects/rna_seq/RNAseq_classifier.rar)
 
 ---
+
 
 

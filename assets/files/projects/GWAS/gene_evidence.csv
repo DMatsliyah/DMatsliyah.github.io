@@ -1,0 +1,429 @@
+association_id,p_value,mapped_genes,reported_trait,risk_frequency,snp_allele,locations,accession_id,pubmed_id,gene_symbol
+214192153,5e-10,['PNPLA3'],['Lean metabolic dysfunction-associated steatotic liver disease'],0.396,"[{'rs_id': 'rs9625962', 'effect_allele': 'C'}]",22:43930392,GCST90705034,41039588,PNPLA3
+191270869,9e-45,['PNPLA3'],['Other chronic nonalcoholic liver disease (PheCode 571.5)'],NR,"[{'rs_id': 'rs738409', 'effect_allele': '?'}]",22:43928847,GCST90651149,40465716,PNPLA3
+117774526,4e-08,['PNPLA2'],['Nonalcoholic fatty liver disease'],0.01,"[{'rs_id': 'rs140201358', 'effect_allele': 'G'}]",11:823586,GCST90271622,37709864,PNPLA2
+117774520,5e-08,['PTPRD'],['Nonalcoholic fatty liver disease'],0.72,"[{'rs_id': 'rs10756038', 'effect_allele': 'G'}]",9:10462423,GCST90271622,37709864,PTPRD
+117774513,3.0000000000000004e-08,"['DRG2', 'GID4']",['Nonalcoholic fatty liver disease'],0.35,"[{'rs_id': 'rs4561528', 'effect_allele': 'T'}]",17:18075785,GCST90271622,37709864,DRG2
+117774513,3.0000000000000004e-08,"['DRG2', 'GID4']",['Nonalcoholic fatty liver disease'],0.35,"[{'rs_id': 'rs4561528', 'effect_allele': 'T'}]",17:18075785,GCST90271622,37709864,GID4
+117774506,9.000000000000001e-09,"['MBOAT7', 'TMC4']",['Nonalcoholic fatty liver disease'],0.43,"[{'rs_id': 'rs626283', 'effect_allele': 'C'}]",19:54173307,GCST90271622,37709864,MBOAT7
+117774506,9.000000000000001e-09,"['MBOAT7', 'TMC4']",['Nonalcoholic fatty liver disease'],0.43,"[{'rs_id': 'rs626283', 'effect_allele': 'C'}]",19:54173307,GCST90271622,37709864,TMC4
+117774500,5e-09,['INSR'],['Nonalcoholic fatty liver disease'],0.18,"[{'rs_id': 'rs112630404', 'effect_allele': 'A'}]",19:7218624,GCST90271622,37709864,INSR
+117774494,3.0000000000000004e-09,['COBLL1'],['Nonalcoholic fatty liver disease'],0.88,"[{'rs_id': 'rs79953491', 'effect_allele': 'A'}]",2:164699029,GCST90271622,37709864,COBLL1
+117774488,8e-10,['FTO'],['Nonalcoholic fatty liver disease'],0.39,"[{'rs_id': 'rs17817449', 'effect_allele': 'G'}]",16:53779455,GCST90271622,37709864,FTO
+117774482,6e-11,['ADH1B'],['Nonalcoholic fatty liver disease'],0.95,"[{'rs_id': 'rs1229984', 'effect_allele': 'C'}]",4:99318162,GCST90271622,37709864,ADH1B
+117774476,2e-11,['TOR1B'],['Nonalcoholic fatty liver disease'],0.91,"[{'rs_id': 'rs7029757', 'effect_allele': 'G'}]",9:129804387,GCST90271622,37709864,TOR1B
+117774470,3e-12,['MTTP'],['Nonalcoholic fatty liver disease'],0.74,"[{'rs_id': 'rs7661964', 'effect_allele': 'A'}]",4:99584169,GCST90271622,37709864,MTTP
+117774463,6.0000000000000005e-15,['MTARC1'],['Nonalcoholic fatty liver disease'],0.72,"[{'rs_id': 'rs2642438', 'effect_allele': 'G'}]",1:220796686,GCST90271622,37709864,MTARC1
+117774457,2e-20,['GPAM'],['Nonalcoholic fatty liver disease'],0.27,"[{'rs_id': 'rs4918722', 'effect_allele': 'C'}]",10:112187282,GCST90271622,37709864,GPAM
+117774451,3e-22,['TRIB1AL'],['Nonalcoholic fatty liver disease'],0.62,"[{'rs_id': 'rs112875651', 'effect_allele': 'G'}]",8:125494452,GCST90271622,37709864,TRIB1AL
+117774445,3.0000000000000003e-31,['GCKR'],['Nonalcoholic fatty liver disease'],0.38,"[{'rs_id': 'rs1260326', 'effect_allele': 'T'}]",2:27508073,GCST90271622,37709864,GCKR
+117774439,4e-34,['APOE'],['Nonalcoholic fatty liver disease'],0.85,"[{'rs_id': 'rs429358', 'effect_allele': 'T'}]",19:44908684,GCST90271622,37709864,APOE
+117774433,1e-114,['TM6SF2'],['Nonalcoholic fatty liver disease'],0.07,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90271622,37709864,TM6SF2
+117774427,2e-271,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.22,"[{'rs_id': 'rs738408', 'effect_allele': 'T'}]",22:43928850,GCST90271622,37709864,PNPLA3
+106088095,1e-17,['PNPLA3'],['Nonalcoholic fatty liver disease in obese individuals (BMI>30)'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90275050,37235137,PNPLA3
+106088089,5.000000000000001e-15,['TM6SF2'],['Nonalcoholic fatty liver disease in obese individuals (BMI>30)'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90275050,37235137,TM6SF2
+106088076,3e-41,['PNPLA3'],['Nonalcoholic fatty liver disease in overweight individuals (25<=BMI<=30)'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90275047,37235137,PNPLA3
+106088072,1e-11,['APOE'],['Nonalcoholic fatty liver disease in overweight individuals (25<=BMI<=30)'],NR,"[{'rs_id': 'rs429358', 'effect_allele': 'C'}]",19:44908684,GCST90275047,37235137,APOE
+106088066,2e-28,['TM6SF2'],['Nonalcoholic fatty liver disease in overweight individuals (25<=BMI<=30)'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90275047,37235137,TM6SF2
+106088060,2e-08,"['RNA5SP199', 'RPL6P32']",['Nonalcoholic fatty liver disease in overweight individuals (25<=BMI<=30)'],NR,"[{'rs_id': 'rs882551', 'effect_allele': 'G'}]",5:155636254,GCST90275047,37235137,RNA5SP199
+106088060,2e-08,"['RNA5SP199', 'RPL6P32']",['Nonalcoholic fatty liver disease in overweight individuals (25<=BMI<=30)'],NR,"[{'rs_id': 'rs882551', 'effect_allele': 'G'}]",5:155636254,GCST90275047,37235137,RPL6P32
+106088047,9e-13,['PNPLA3'],['Nonalcoholic fatty liver disease in lean individuals (BMI <25)'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90275044,37235137,PNPLA3
+106088041,5e-14,['TM6SF2'],['Nonalcoholic fatty liver disease in lean individuals (BMI <25)'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90275044,37235137,TM6SF2
+106088035,3e-16,"['HFE', 'H2BC4']",['Nonalcoholic fatty liver disease in lean individuals (BMI <25)'],NR,"[{'rs_id': 'rs1800562', 'effect_allele': 'A'}]",6:26092913,GCST90275044,37235137,HFE
+106088035,3e-16,"['HFE', 'H2BC4']",['Nonalcoholic fatty liver disease in lean individuals (BMI <25)'],NR,"[{'rs_id': 'rs1800562', 'effect_allele': 'A'}]",6:26092913,GCST90275044,37235137,H2BC4
+106088029,1e-08,"['SLC17A2', 'H2BP5']",['Nonalcoholic fatty liver disease in lean individuals (BMI <25)'],NR,"[{'rs_id': 'rs9348697', 'effect_allele': 'T'}]",6:25890606,GCST90275044,37235137,SLC17A2
+106088029,1e-08,"['SLC17A2', 'H2BP5']",['Nonalcoholic fatty liver disease in lean individuals (BMI <25)'],NR,"[{'rs_id': 'rs9348697', 'effect_allele': 'T'}]",6:25890606,GCST90275044,37235137,H2BP5
+106088014,1e-66,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90275041,37235137,PNPLA3
+106088008,7e-53,['TM6SF2'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90275041,37235137,TM6SF2
+106088004,6e-16,['APOE'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs429358', 'effect_allele': 'C'}]",19:44908684,GCST90275041,37235137,APOE
+106087998,3e-11,"['HFE', 'H2BC4']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs1800562', 'effect_allele': 'A'}]",6:26092913,GCST90275041,37235137,HFE
+106087998,3e-11,"['HFE', 'H2BC4']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs1800562', 'effect_allele': 'A'}]",6:26092913,GCST90275041,37235137,H2BC4
+106049915,2e-08,['ZNF701'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs62117242', 'effect_allele': '?'}]",19:52580557,GCST90272881,37033223,ZNF701
+106049910,2e-08,['FAM225B'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17828145', 'effect_allele': '?'}]",9:113103221,GCST90272881,37033223,FAM225B
+106049905,2e-08,['XXYLT1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12633205', 'effect_allele': '?'}]",3:195083942,GCST90272881,37033223,XXYLT1
+106049900,5e-10,['VPS53'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs3744732', 'effect_allele': '?'}]",17:549450,GCST90272881,37033223,VPS53
+106049895,3.0000000000000004e-08,['VAV2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs35233677', 'effect_allele': '?'}]",9:133884733,GCST90272881,37033223,VAV2
+106049890,4e-08,"['RPL30P6', 'UNC5C-AS1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1385677', 'effect_allele': '?'}]",4:95587550,GCST90272881,37033223,RPL30P6
+106049890,4e-08,"['RPL30P6', 'UNC5C-AS1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1385677', 'effect_allele': '?'}]",4:95587550,GCST90272881,37033223,UNC5C-AS1
+106049885,1e-08,"['TULP1', 'LINC03135']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs6928735', 'effect_allele': '?'}]",6:35502752,GCST90272881,37033223,TULP1
+106049885,1e-08,"['TULP1', 'LINC03135']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs6928735', 'effect_allele': '?'}]",6:35502752,GCST90272881,37033223,LINC03135
+106049880,6.999999999999999e-11,['TMEM132B'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs73233361', 'effect_allele': '?'}]",12:125312149,GCST90272881,37033223,TMEM132B
+106049875,8e-09,"['TINAG', 'CLNS1AP1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs189655', 'effect_allele': '?'}]",6:54442645,GCST90272881,37033223,TINAG
+106049875,8e-09,"['TINAG', 'CLNS1AP1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs189655', 'effect_allele': '?'}]",6:54442645,GCST90272881,37033223,CLNS1AP1
+106049870,4e-08,['STX6'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs10914146', 'effect_allele': '?'}]",1:180980829,GCST90272881,37033223,STX6
+106049865,2e-08,['ST18'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs72643901', 'effect_allele': '?'}]",8:52411562,GCST90272881,37033223,ST18
+106049860,5e-08,"['RNA5SP56', 'PSMC1P12']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12756333', 'effect_allele': '?'}]",1:118398784,GCST90272881,37033223,RNA5SP56
+106049860,5e-08,"['RNA5SP56', 'PSMC1P12']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12756333', 'effect_allele': '?'}]",1:118398784,GCST90272881,37033223,PSMC1P12
+106049855,3.0000000000000004e-08,"['HTR1E', 'RN7SL643P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs9444458', 'effect_allele': '?'}]",6:86919880,GCST90272881,37033223,HTR1E
+106049855,3.0000000000000004e-08,"['HTR1E', 'RN7SL643P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs9444458', 'effect_allele': '?'}]",6:86919880,GCST90272881,37033223,RN7SL643P
+106049850,9.000000000000001e-09,['SMARCAL1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs6744504', 'effect_allele': '?'}]",2:216453042,GCST90272881,37033223,SMARCAL1
+106049845,2e-08,['SLF2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61871478', 'effect_allele': '?'}]",10:100925284,GCST90272881,37033223,SLF2
+106049840,6.000000000000001e-09,['SLC9C2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11580117', 'effect_allele': '?'}]",1:173502307,GCST90272881,37033223,SLC9C2
+106049835,4e-08,['SHC4'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12440434', 'effect_allele': '?'}]",15:48930049,GCST90272881,37033223,SHC4
+106049830,6.000000000000001e-09,['ADAMTSL1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs34560846', 'effect_allele': '?'}]",9:17951511,GCST90272881,37033223,ADAMTSL1
+106049825,4e-09,['SCGN'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs72838866', 'effect_allele': '?'}]",6:25673045,GCST90272881,37033223,SCGN
+106049820,4e-09,['RPL37A'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs72950623', 'effect_allele': '?'}]",2:216513638,GCST90272881,37033223,RPL37A
+106049815,1e-08,['ROBO1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs10511124', 'effect_allele': '?'}]",3:78994453,GCST90272881,37033223,ROBO1
+106049810,4e-08,"['RICTOR', 'FYB1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs80219778', 'effect_allele': '?'}]",5:39083015,GCST90272881,37033223,RICTOR
+106049810,4e-08,"['RICTOR', 'FYB1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs80219778', 'effect_allele': '?'}]",5:39083015,GCST90272881,37033223,FYB1
+106049805,1e-09,['RGS6'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs8011972', 'effect_allele': '?'}]",14:71989437,GCST90272881,37033223,RGS6
+106049800,5e-09,"['SLC9C2', 'PRDX6-AS1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61828878', 'effect_allele': '?'}]",1:173495315,GCST90272881,37033223,SLC9C2
+106049800,5e-09,"['SLC9C2', 'PRDX6-AS1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61828878', 'effect_allele': '?'}]",1:173495315,GCST90272881,37033223,PRDX6-AS1
+106049795,4e-08,['PPP2R2B'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17105175', 'effect_allele': '?'}]",5:146689762,GCST90272881,37033223,PPP2R2B
+106049790,2e-08,['PLCG2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs76424446', 'effect_allele': '?'}]",16:81826596,GCST90272881,37033223,PLCG2
+106049785,2e-08,['PLB1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs7573051', 'effect_allele': '?'}]",2:28604159,GCST90272881,37033223,PLB1
+106049780,1e-08,['PLA2G2F'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs3738126', 'effect_allele': '?'}]",1:20148414,GCST90272881,37033223,PLA2G2F
+106049775,3.0000000000000004e-08,['PDE1C'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs30589', 'effect_allele': '?'}]",7:32058371,GCST90272881,37033223,PDE1C
+106049770,6e-10,"['NEDD9', 'RNU1-64P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs78527538', 'effect_allele': '?'}]",6:11403257,GCST90272881,37033223,NEDD9
+106049770,6e-10,"['NEDD9', 'RNU1-64P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs78527538', 'effect_allele': '?'}]",6:11403257,GCST90272881,37033223,RNU1-64P
+106049765,8e-09,['ITGB3BP'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs76536469', 'effect_allele': '?'}]",1:63340171,GCST90272881,37033223,ITGB3BP
+106049760,3.0000000000000004e-09,"['MON1B', 'LINC02125']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17700692', 'effect_allele': '?'}]",16:77002765,GCST90272881,37033223,MON1B
+106049760,3.0000000000000004e-09,"['MON1B', 'LINC02125']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17700692', 'effect_allele': '?'}]",16:77002765,GCST90272881,37033223,LINC02125
+106049755,3.0000000000000004e-08,"['IRAK1BP1', 'MEI4']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs7759891', 'effect_allele': '?'}]",6:78333724,GCST90272881,37033223,IRAK1BP1
+106049755,3.0000000000000004e-08,"['IRAK1BP1', 'MEI4']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs7759891', 'effect_allele': '?'}]",6:78333724,GCST90272881,37033223,MEI4
+106049750,2e-08,['LINC02324'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs58708909', 'effect_allele': '?'}]",14:65182547,GCST90272881,37033223,LINC02324
+106049745,2e-08,['SMPD4P1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs482165', 'effect_allele': '?'}]",22:20616935,GCST90272881,37033223,SMPD4P1
+106049740,3.0000000000000004e-09,"['ELF2P4', 'FSIP2-AS1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11691944', 'effect_allele': '?'}]",2:185616069,GCST90272881,37033223,ELF2P4
+106049740,3.0000000000000004e-09,"['ELF2P4', 'FSIP2-AS1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11691944', 'effect_allele': '?'}]",2:185616069,GCST90272881,37033223,FSIP2-AS1
+106049735,1e-08,"['FECHP1', 'KRT8P18']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs73061956', 'effect_allele': '?'}]",3:34904212,GCST90272881,37033223,FECHP1
+106049735,1e-08,"['FECHP1', 'KRT8P18']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs73061956', 'effect_allele': '?'}]",3:34904212,GCST90272881,37033223,KRT8P18
+106049730,5e-08,"['CYP51A1P1', 'LINC02008']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs13080791', 'effect_allele': '?'}]",3:82492153,GCST90272881,37033223,CYP51A1P1
+106049730,5e-08,"['CYP51A1P1', 'LINC02008']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs13080791', 'effect_allele': '?'}]",3:82492153,GCST90272881,37033223,LINC02008
+106049725,3.0000000000000004e-08,"['LINC01774', 'TFDP1P1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12410473', 'effect_allele': '?'}]",1:209064125,GCST90272881,37033223,LINC01774
+106049725,3.0000000000000004e-08,"['LINC01774', 'TFDP1P1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12410473', 'effect_allele': '?'}]",1:209064125,GCST90272881,37033223,TFDP1P1
+106049720,7.000000000000001e-09,"['LINC01717', 'LINC01774']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61815777', 'effect_allele': '?'}]",1:208765295,GCST90272881,37033223,LINC01717
+106049720,7.000000000000001e-09,"['LINC01717', 'LINC01774']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61815777', 'effect_allele': '?'}]",1:208765295,GCST90272881,37033223,LINC01774
+106049715,4e-08,"['NUS1P2', 'HMGA1P6']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61273843', 'effect_allele': '?'}]",13:22959695,GCST90272881,37033223,NUS1P2
+106049715,4e-08,"['NUS1P2', 'HMGA1P6']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs61273843', 'effect_allele': '?'}]",13:22959695,GCST90272881,37033223,HMGA1P6
+106049710,1e-08,"['LINC00364', 'BCRP9']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1937503', 'effect_allele': '?'}]",13:67445752,GCST90272881,37033223,LINC00364
+106049710,1e-08,"['LINC00364', 'BCRP9']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1937503', 'effect_allele': '?'}]",13:67445752,GCST90272881,37033223,BCRP9
+106049705,3.0000000000000004e-09,"['LINC00290', 'LINC02500']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs78930132', 'effect_allele': '?'}]",4:181195022,GCST90272881,37033223,LINC00290
+106049705,3.0000000000000004e-09,"['LINC00290', 'LINC02500']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs78930132', 'effect_allele': '?'}]",4:181195022,GCST90272881,37033223,LINC02500
+106049700,2e-08,"['KCNQ3', 'HPYR1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs2597361', 'effect_allele': '?'}]",8:132500063,GCST90272881,37033223,KCNQ3
+106049700,2e-08,"['KCNQ3', 'HPYR1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs2597361', 'effect_allele': '?'}]",8:132500063,GCST90272881,37033223,HPYR1
+106049695,1e-09,['ITIH2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11255309', 'effect_allele': '?'}]",10:7719195,GCST90272881,37033223,ITIH2
+106049690,5e-09,"['HMGB1P47', 'RNA5SP182']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs16878909', 'effect_allele': '?'}]",5:51474381,GCST90272881,37033223,HMGB1P47
+106049690,5e-09,"['HMGB1P47', 'RNA5SP182']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs16878909', 'effect_allele': '?'}]",5:51474381,GCST90272881,37033223,RNA5SP182
+106049685,3.0000000000000004e-08,"['MTND5P34', 'RN7SL841P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs7187952', 'effect_allele': '?'}]",16:55098776,GCST90272881,37033223,MTND5P34
+106049685,3.0000000000000004e-08,"['MTND5P34', 'RN7SL841P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs7187952', 'effect_allele': '?'}]",16:55098776,GCST90272881,37033223,RN7SL841P
+106049680,2e-08,"['LINC02114', 'LINC02063']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12523256', 'effect_allele': '?'}]",5:4730469,GCST90272881,37033223,LINC02114
+106049680,2e-08,"['LINC02114', 'LINC02063']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12523256', 'effect_allele': '?'}]",5:4730469,GCST90272881,37033223,LINC02063
+106049675,1e-08,"['DCLK2', 'RNU6-1230P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs10017432', 'effect_allele': '?'}]",4:150039390,GCST90272881,37033223,DCLK2
+106049675,1e-08,"['DCLK2', 'RNU6-1230P']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs10017432', 'effect_allele': '?'}]",4:150039390,GCST90272881,37033223,RNU6-1230P
+106049670,2e-08,"['BTBD7P2', 'RPS6P15']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs10160166', 'effect_allele': '?'}]",10:111342345,GCST90272881,37033223,BTBD7P2
+106049670,2e-08,"['BTBD7P2', 'RPS6P15']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs10160166', 'effect_allele': '?'}]",10:111342345,GCST90272881,37033223,RPS6P15
+106049665,1e-08,['GPR26'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1008720', 'effect_allele': '?'}]",10:123686857,GCST90272881,37033223,GPR26
+106049660,5e-08,"['GPC5', 'LINC00363']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs3906867', 'effect_allele': '?'}]",13:93005549,GCST90272881,37033223,GPC5
+106049660,5e-08,"['GPC5', 'LINC00363']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs3906867', 'effect_allele': '?'}]",13:93005549,GCST90272881,37033223,LINC00363
+106049655,3.0000000000000004e-08,"['GADD45G', 'LINC03062']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs36107264', 'effect_allele': '?'}]",9:89627437,GCST90272881,37033223,GADD45G
+106049655,3.0000000000000004e-08,"['GADD45G', 'LINC03062']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs36107264', 'effect_allele': '?'}]",9:89627437,GCST90272881,37033223,LINC03062
+106049650,2e-08,"['TJP2', 'FXN']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs62567098', 'effect_allele': '?'}]",9:69116448,GCST90272881,37033223,TJP2
+106049650,2e-08,"['TJP2', 'FXN']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs62567098', 'effect_allele': '?'}]",9:69116448,GCST90272881,37033223,FXN
+106049645,5e-08,"['CHORDC2P', 'RN7SKP255']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12889270', 'effect_allele': '?'}]",14:89730393,GCST90272881,37033223,CHORDC2P
+106049645,5e-08,"['CHORDC2P', 'RN7SKP255']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12889270', 'effect_allele': '?'}]",14:89730393,GCST90272881,37033223,RN7SKP255
+106049640,1e-09,['FHIT'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17061494', 'effect_allele': '?'}]",3:59935186,GCST90272881,37033223,FHIT
+106049635,5e-08,"['FASLG', 'SLC25A38P1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs859668', 'effect_allele': '?'}]",1:172701580,GCST90272881,37033223,FASLG
+106049635,5e-08,"['FASLG', 'SLC25A38P1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs859668', 'effect_allele': '?'}]",1:172701580,GCST90272881,37033223,SLC25A38P1
+106049630,1e-09,['EYA1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12335144', 'effect_allele': '?'}]",8:71378979,GCST90272881,37033223,EYA1
+106049625,1e-08,['ETV6'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11054481', 'effect_allele': '?'}]",12:11882348,GCST90272881,37033223,ETV6
+106049620,2e-08,"['DNM3', 'PIGC']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17278379', 'effect_allele': '?'}]",1:172412144,GCST90272881,37033223,DNM3
+106049620,2e-08,"['DNM3', 'PIGC']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs17278379', 'effect_allele': '?'}]",1:172412144,GCST90272881,37033223,PIGC
+106049615,4e-08,['DNAH8'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs9357284', 'effect_allele': '?'}]",6:38837569,GCST90272881,37033223,DNAH8
+106049610,4e-08,['DLG2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs748886', 'effect_allele': '?'}]",11:83924134,GCST90272881,37033223,DLG2
+106049605,2e-08,"['RNGTT', 'ACTBP8']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs9359785', 'effect_allele': '?'}]",6:88452840,GCST90272881,37033223,RNGTT
+106049605,2e-08,"['RNGTT', 'ACTBP8']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs9359785', 'effect_allele': '?'}]",6:88452840,GCST90272881,37033223,ACTBP8
+106049600,4e-08,['ST8SIA1'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs12582259', 'effect_allele': '?'}]",12:22145977,GCST90272881,37033223,ST8SIA1
+106049595,2e-08,"['BMP3', 'CFAP299']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1495644', 'effect_allele': '?'}]",4:81000603,GCST90272881,37033223,BMP3
+106049595,2e-08,"['BMP3', 'CFAP299']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs1495644', 'effect_allele': '?'}]",4:81000603,GCST90272881,37033223,CFAP299
+106049590,2e-08,['C8orf34'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs2591025', 'effect_allele': '?'}]",8:68413613,GCST90272881,37033223,C8orf34
+106049585,2e-09,"['DNAAF9', 'TCEAL9P1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs78096436', 'effect_allele': '?'}]",20:3457240,GCST90272881,37033223,DNAAF9
+106049585,2e-09,"['DNAAF9', 'TCEAL9P1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs78096436', 'effect_allele': '?'}]",20:3457240,GCST90272881,37033223,TCEAL9P1
+106049580,4e-09,['BCKDHB'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs652576', 'effect_allele': '?'}]",6:80260859,GCST90272881,37033223,BCKDHB
+106049575,5e-08,['ATP8A2'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs9511911', 'effect_allele': '?'}]",13:25748486,GCST90272881,37033223,ATP8A2
+106049570,2e-08,"['BUD31', 'PTCD1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs2003499', 'effect_allele': '?'}]",7:99417361,GCST90272881,37033223,BUD31
+106049570,2e-08,"['BUD31', 'PTCD1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs2003499', 'effect_allele': '?'}]",7:99417361,GCST90272881,37033223,PTCD1
+106049565,1e-08,"['ARPC1B', 'PDAP1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11978089', 'effect_allele': '?'}]",7:99393558,GCST90272881,37033223,ARPC1B
+106049565,1e-08,"['ARPC1B', 'PDAP1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs11978089', 'effect_allele': '?'}]",7:99393558,GCST90272881,37033223,PDAP1
+106049560,3.0000000000000004e-08,"['GNA12', 'AMZ1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs208348', 'effect_allele': '?'}]",7:2758410,GCST90272881,37033223,GNA12
+106049560,3.0000000000000004e-08,"['GNA12', 'AMZ1']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs208348', 'effect_allele': '?'}]",7:2758410,GCST90272881,37033223,AMZ1
+106049555,5e-08,['ADAMTS18'],['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs77133505', 'effect_allele': '?'}]",16:77364575,GCST90272881,37033223,ADAMTS18
+106049550,4e-08,"['PHLDB2', 'ABHD10']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs77237404', 'effect_allele': '?'}]",3:111978592,GCST90272881,37033223,PHLDB2
+106049550,4e-08,"['PHLDB2', 'ABHD10']",['Non-alcoholic fatty liver disease or type 2 diabetes'],NR,"[{'rs_id': 'rs77237404', 'effect_allele': '?'}]",3:111978592,GCST90272881,37033223,ABHD10
+106037216,5e-08,['TRIB1AL'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs17321515', 'effect_allele': '?'}]",8:125474167,GCST90271929,36986172,TRIB1AL
+106037211,5e-08,['SUGP1'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs10401969', 'effect_allele': '?'}]",19:19296909,GCST90271929,36986172,SUGP1
+106037206,5e-08,"['RNA5SP225', 'RNA5SP224']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs9479542', 'effect_allele': '?'}]",6:153195547,GCST90271929,36986172,RNA5SP225
+106037206,5e-08,"['RNA5SP225', 'RNA5SP224']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs9479542', 'effect_allele': '?'}]",6:153195547,GCST90271929,36986172,RNA5SP224
+106037200,5e-08,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs3747207', 'effect_allele': '?'}]",22:43928975,GCST90271929,36986172,PNPLA3
+106037195,5e-08,['APOE'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs429358', 'effect_allele': '?'}]",19:44908684,GCST90271929,36986172,APOE
+97369417,3e-73,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90104598,35124268,PNPLA3
+97369412,3e-16,['TM6SF2'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90104598,35124268,TM6SF2
+97369407,5e-08,['APOE'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs429358', 'effect_allele': 'T'}]",19:44908684,GCST90104598,35124268,APOE
+97369402,7e-13,['TRIB1AL'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs112875651', 'effect_allele': 'G'}]",8:125494452,GCST90104598,35124268,TRIB1AL
+97369397,7e-14,['GCKR'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs1260326', 'effect_allele': 'T'}]",2:27508073,GCST90104598,35124268,GCKR
+96768709,9e-07,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738409', 'effect_allele': '?'}]",22:43928847,GCST90102471,35023183,PNPLA3
+94870856,2e-10,['SAMM50'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6006469', 'effect_allele': '?'}]",22:43987737,GCST90094908,35047847,SAMM50
+94870850,3.0000000000000004e-08,['CHEK2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs5752775', 'effect_allele': '?'}]",22:28711207,GCST90094908,35047847,CHEK2
+94870844,4e-09,"['GGT1', 'BCRP3']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs5747734', 'effect_allele': '?'}]",22:24631316,GCST90094908,35047847,GGT1
+94870844,4e-09,"['GGT1', 'BCRP3']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs5747734', 'effect_allele': '?'}]",22:24631316,GCST90094908,35047847,BCRP3
+94870839,1e-63,['GGT1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2006092', 'effect_allele': '?'}]",22:24599701,GCST90094908,35047847,GGT1
+94870834,6.000000000000001e-13,['MICAL3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9604818', 'effect_allele': '?'}]",22:17997405,GCST90094908,35047847,MICAL3
+94870828,4e-11,['MICAL3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4819649', 'effect_allele': '?'}]",22:17913563,GCST90094908,35047847,MICAL3
+94870822,3.0000000000000004e-08,['EYA2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6066150', 'effect_allele': '?'}]",20:46978214,GCST90094908,35047847,EYA2
+94870817,1e-10,['EYA2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4809604', 'effect_allele': '?'}]",20:46921850,GCST90094908,35047847,EYA2
+94870812,3.0000000000000004e-08,['FUT2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs492602', 'effect_allele': '?'}]",19:48703160,GCST90094908,35047847,FUT2
+94870807,3.0000000000000004e-08,"['RPS3AP50', 'AKR1B1P7']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6510374', 'effect_allele': '?'}]",19:33358215,GCST90094908,35047847,RPS3AP50
+94870807,3.0000000000000004e-08,"['RPS3AP50', 'AKR1B1P7']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6510374', 'effect_allele': '?'}]",19:33358215,GCST90094908,35047847,AKR1B1P7
+94870802,2e-08,['MAU2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs58489806', 'effect_allele': '?'}]",19:19346108,GCST90094908,35047847,MAU2
+94870797,5e-08,['BCL2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs12454712', 'effect_allele': '?'}]",18:63178651,GCST90094908,35047847,BCL2
+94870792,2e-08,"['ALPK2', 'MIR122HG']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs7504657', 'effect_allele': '?'}]",18:58480323,GCST90094908,35047847,ALPK2
+94870792,2e-08,"['ALPK2', 'MIR122HG']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs7504657', 'effect_allele': '?'}]",18:58480323,GCST90094908,35047847,MIR122HG
+94870786,6.999999999999999e-11,"['NEDD4L', 'MIR122HG']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4940694', 'effect_allele': '?'}]",18:58438927,GCST90094908,35047847,NEDD4L
+94870786,6.999999999999999e-11,"['NEDD4L', 'MIR122HG']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4940694', 'effect_allele': '?'}]",18:58438927,GCST90094908,35047847,MIR122HG
+94870780,2e-08,['NEDD4L'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs62096389', 'effect_allele': '?'}]",18:58301483,GCST90094908,35047847,NEDD4L
+94870775,2e-08,"['Y_RNA', 'RNU6-938P']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9908820', 'effect_allele': '?'}]",17:75412738,GCST90094908,35047847,Y_RNA
+94870775,2e-08,"['Y_RNA', 'RNU6-938P']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9908820', 'effect_allele': '?'}]",17:75412738,GCST90094908,35047847,RNU6-938P
+94870770,4e-08,['MRPS7'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2279162', 'effect_allele': '?'}]",17:75263002,GCST90094908,35047847,MRPS7
+94870758,3.0000000000000004e-09,['BPTF'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs11653507', 'effect_allele': '?'}]",17:67895948,GCST90094908,35047847,BPTF
+94870753,3.0000000000000004e-08,"['SMG6', 'SMG6-AS1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs3760230', 'effect_allele': '?'}]",17:2090777,GCST90094908,35047847,SMG6
+94870753,3.0000000000000004e-08,"['SMG6', 'SMG6-AS1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs3760230', 'effect_allele': '?'}]",17:2090777,GCST90094908,35047847,SMG6-AS1
+94870748,2e-09,['EXOC3L4'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2274685', 'effect_allele': '?'}]",14:103108733,GCST90094908,35047847,EXOC3L4
+94870743,1e-09,"['HNF1A', 'HNF1A-AS1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1169289', 'effect_allele': '?'}]",12:120978819,GCST90094908,35047847,HNF1A
+94870743,1e-09,"['HNF1A', 'HNF1A-AS1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1169289', 'effect_allele': '?'}]",12:120978819,GCST90094908,35047847,HNF1A-AS1
+94870738,4e-08,['SIK3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs473172', 'effect_allele': '?'}]",11:116937254,GCST90094908,35047847,SIK3
+94870732,5e-08,['APOC3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4225', 'effect_allele': '?'}]",11:116832955,GCST90094908,35047847,APOC3
+94870726,1e-08,['APOC3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2070669', 'effect_allele': '?'}]",11:116830406,GCST90094908,35047847,APOC3
+94870721,3.0000000000000004e-09,['BUD13'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1263151', 'effect_allele': '?'}]",11:116770312,GCST90094908,35047847,BUD13
+94870709,1e-08,"['BLOC1S2', 'CWF19L1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs41290534', 'effect_allele': '?'}]",10:100267779,GCST90094908,35047847,BLOC1S2
+94870709,1e-08,"['BLOC1S2', 'CWF19L1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs41290534', 'effect_allele': '?'}]",10:100267779,GCST90094908,35047847,CWF19L1
+94870703,1e-09,['CYP2C23P'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs7893985', 'effect_allele': '?'}]",10:100133661,GCST90094908,35047847,CYP2C23P
+94870697,8e-10,"['CPN1', 'DNMBP']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2862928', 'effect_allele': '?'}]",10:100038589,GCST90094908,35047847,CPN1
+94870697,8e-10,"['CPN1', 'DNMBP']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2862928', 'effect_allele': '?'}]",10:100038589,GCST90094908,35047847,DNMBP
+94870691,4e-08,['KIF11'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6583826', 'effect_allele': '?'}]",10:92588073,GCST90094908,35047847,KIF11
+94870686,3e-11,['ZMIZ1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs7916441', 'effect_allele': '?'}]",10:79165820,GCST90094908,35047847,ZMIZ1
+94870681,4e-17,"['POLR3A', 'DLG5-AS1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1248890', 'effect_allele': '?'}]",10:77940296,GCST90094908,35047847,POLR3A
+94870681,4e-17,"['POLR3A', 'DLG5-AS1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1248890', 'effect_allele': '?'}]",10:77940296,GCST90094908,35047847,DLG5-AS1
+94870675,2e-13,"['KCNMA1', 'RNU6-1266P']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2579174', 'effect_allele': '?'}]",10:77770455,GCST90094908,35047847,KCNMA1
+94870675,2e-13,"['KCNMA1', 'RNU6-1266P']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2579174', 'effect_allele': '?'}]",10:77770455,GCST90094908,35047847,RNU6-1266P
+94870669,3.0000000000000004e-09,['HK1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs72805692', 'effect_allele': '?'}]",10:69339353,GCST90094908,35047847,HK1
+94870664,7e-13,['MRC1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs12359178', 'effect_allele': '?'}]",10:17847614,GCST90094908,35047847,MRC1
+94870654,3.0000000000000004e-08,['AKNA'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1044531', 'effect_allele': '?'}]",9:114336370,GCST90094908,35047847,AKNA
+94870649,3.0000000000000004e-08,['CDKN2B-AS1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs10811662', 'effect_allele': '?'}]",9:22134254,GCST90094908,35047847,CDKN2B-AS1
+94870644,2e-13,['TRIB1AL'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4604455', 'effect_allele': '?'}]",8:125505785,GCST90094908,35047847,TRIB1AL
+94870638,3e-22,['TRIB1AL'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2954030', 'effect_allele': '?'}]",8:125479062,GCST90094908,35047847,TRIB1AL
+94870632,3e-11,['TRIB1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2385114', 'effect_allele': '?'}]",8:125435066,GCST90094908,35047847,TRIB1
+94870627,2e-08,['NDUFAF6'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs10108430', 'effect_allele': '?'}]",8:94949566,GCST90094908,35047847,NDUFAF6
+94870621,6e-10,['EYA1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6994124', 'effect_allele': '?'}]",8:71580950,GCST90094908,35047847,EYA1
+94870616,9e-13,"['LPL', 'RPL30P9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs80026582', 'effect_allele': '?'}]",8:20075352,GCST90094908,35047847,LPL
+94870616,9e-13,"['LPL', 'RPL30P9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs80026582', 'effect_allele': '?'}]",8:20075352,GCST90094908,35047847,RPL30P9
+94870610,3.0000000000000004e-09,"['LPL', 'RPL30P9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs13439782', 'effect_allele': '?'}]",8:20072267,GCST90094908,35047847,LPL
+94870610,3.0000000000000004e-09,"['LPL', 'RPL30P9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs13439782', 'effect_allele': '?'}]",8:20072267,GCST90094908,35047847,RPL30P9
+94870604,3.0000000000000004e-08,"['LPL', 'RPL30P9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1441764', 'effect_allele': '?'}]",8:20005513,GCST90094908,35047847,LPL
+94870604,3.0000000000000004e-08,"['LPL', 'RPL30P9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1441764', 'effect_allele': '?'}]",8:20005513,GCST90094908,35047847,RPL30P9
+94870598,5e-10,['LPL'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs326', 'effect_allele': '?'}]",8:19961928,GCST90094908,35047847,LPL
+94870588,3.0000000000000004e-08,['MET'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs755382741', 'effect_allele': '?'}]",7:116769622,GCST90094908,35047847,MET
+94870582,4e-08,"['MLXIPL', 'VPS37D']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs13230514', 'effect_allele': '?'}]",7:73633765,GCST90094908,35047847,MLXIPL
+94870582,4e-08,"['MLXIPL', 'VPS37D']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs13230514', 'effect_allele': '?'}]",7:73633765,GCST90094908,35047847,VPS37D
+94870576,2e-16,['JAZF1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1635852', 'effect_allele': '?'}]",7:28149792,GCST90094908,35047847,JAZF1
+94870571,4e-10,"['LINC01625', 'ATP5PBP6']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs151288714', 'effect_allele': '?'}]",6:139518632,GCST90094908,35047847,LINC01625
+94870571,4e-10,"['LINC01625', 'ATP5PBP6']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs151288714', 'effect_allele': '?'}]",6:139518632,GCST90094908,35047847,ATP5PBP6
+94870565,3.0000000000000004e-08,['L3MBTL3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs775280962', 'effect_allele': '?'}]",6:130049259,GCST90094908,35047847,L3MBTL3
+94870559,2e-09,['RSPO3'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs141783576', 'effect_allele': '?'}]",6:127118752,GCST90094908,35047847,RSPO3
+94870554,4e-08,"['RSPO3', 'RPS4XP9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6916318', 'effect_allele': '?'}]",6:127113961,GCST90094908,35047847,RSPO3
+94870554,4e-08,"['RSPO3', 'RPS4XP9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6916318', 'effect_allele': '?'}]",6:127113961,GCST90094908,35047847,RPS4XP9
+94870549,5e-08,"['RPL17P25', 'RPSAP72']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1115232', 'effect_allele': '?'}]",6:80416219,GCST90094908,35047847,RPL17P25
+94870549,5e-08,"['RPL17P25', 'RPSAP72']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1115232', 'effect_allele': '?'}]",6:80416219,GCST90094908,35047847,RPSAP72
+94870543,1e-21,"['VEGFA', 'LINC02537']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4711750', 'effect_allele': '?'}]",6:43789345,GCST90094908,35047847,VEGFA
+94870543,1e-21,"['VEGFA', 'LINC02537']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4711750', 'effect_allele': '?'}]",6:43789345,GCST90094908,35047847,LINC02537
+94870538,1e-09,['SMIM29'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1150781', 'effect_allele': '?'}]",6:34246545,GCST90094908,35047847,SMIM29
+94870533,2e-08,['HLA-DQA1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9272699', 'effect_allele': '?'}]",6:32641452,GCST90094908,35047847,HLA-DQA1
+94870527,5e-09,['HLA-DQA1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2213287', 'effect_allele': '?'}]",6:32637731,GCST90094908,35047847,HLA-DQA1
+94870521,2e-08,"['HLA-DRB1', 'HLA-DQA1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9271406', 'effect_allele': '?'}]",6:32619811,GCST90094908,35047847,HLA-DRB1
+94870521,2e-08,"['HLA-DRB1', 'HLA-DQA1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9271406', 'effect_allele': '?'}]",6:32619811,GCST90094908,35047847,HLA-DQA1
+94870516,2e-08,"['HLA-DRB1', 'HLA-DQA1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9271325', 'effect_allele': '?'}]",6:32614736,GCST90094908,35047847,HLA-DRB1
+94870516,2e-08,"['HLA-DRB1', 'HLA-DQA1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9271325', 'effect_allele': '?'}]",6:32614736,GCST90094908,35047847,HLA-DQA1
+94870510,3.0000000000000004e-09,"['HLA-DRB1', 'HLA-DQA1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs5021727', 'effect_allele': '?'}]",6:32610856,GCST90094908,35047847,HLA-DRB1
+94870510,3.0000000000000004e-09,"['HLA-DRB1', 'HLA-DQA1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs5021727', 'effect_allele': '?'}]",6:32610856,GCST90094908,35047847,HLA-DQA1
+94870505,4e-12,"['HLA-DRB5', 'HLA-DRB9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs7748270', 'effect_allele': '?'}]",6:32480822,GCST90094908,35047847,HLA-DRB5
+94870505,4e-12,"['HLA-DRB5', 'HLA-DRB9']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs7748270', 'effect_allele': '?'}]",6:32480822,GCST90094908,35047847,HLA-DRB9
+94870500,5e-09,['SKIC2'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs440454', 'effect_allele': '?'}]",6:31959565,GCST90094908,35047847,SKIC2
+94870495,4e-08,['HSPA4'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs571173399', 'effect_allele': '?'}]",5:133106107,GCST90094908,35047847,HSPA4
+94870490,7e-12,['C5orf67'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs11743303', 'effect_allele': '?'}]",5:56564125,GCST90094908,35047847,C5orf67
+94870485,4e-10,['ARL15'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1694068', 'effect_allele': '?'}]",5:53987800,GCST90094908,35047847,ARL15
+94870480,2e-12,['RPL19P11'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs13168878', 'effect_allele': '?'}]",5:31054103,GCST90094908,35047847,RPL19P11
+94870474,2e-13,['ZNF827'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4835021', 'effect_allele': '?'}]",4:145835253,GCST90094908,35047847,ZNF827
+94870468,3e-10,['HHIP'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs11727676', 'effect_allele': '?'}]",4:144737912,GCST90094908,35047847,HHIP
+94870463,4e-08,"['KLHL8', 'MIR5705']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs28657030', 'effect_allele': '?'}]",4:87280400,GCST90094908,35047847,KLHL8
+94870463,4e-08,"['KLHL8', 'MIR5705']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs28657030', 'effect_allele': '?'}]",4:87280400,GCST90094908,35047847,MIR5705
+94870457,4e-08,['STAG1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs696516', 'effect_allele': '?'}]",3:136348936,GCST90094908,35047847,STAG1
+94870452,5e-08,['PRKCD'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs41275531', 'effect_allele': '?'}]",3:53186359,GCST90094908,35047847,PRKCD
+94870440,2e-09,['RAF1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs9852128', 'effect_allele': '?'}]",3:12594124,GCST90094908,35047847,RAF1
+94870434,2e-08,"['PPARG', 'TSEN2']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs73029213', 'effect_allele': '?'}]",3:12459594,GCST90094908,35047847,PPARG
+94870434,2e-08,"['PPARG', 'TSEN2']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs73029213', 'effect_allele': '?'}]",3:12459594,GCST90094908,35047847,TSEN2
+94870429,2e-11,"['PPARG', 'TSEN2']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2249407', 'effect_allele': '?'}]",3:12453295,GCST90094908,35047847,PPARG
+94870429,2e-11,"['PPARG', 'TSEN2']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2249407', 'effect_allele': '?'}]",3:12453295,GCST90094908,35047847,TSEN2
+94870424,1e-11,['PPARG'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs4135275', 'effect_allele': '?'}]",3:12402345,GCST90094908,35047847,PPARG
+94870419,6.000000000000001e-09,['PPARG'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs6802898', 'effect_allele': '?'}]",3:12349708,GCST90094908,35047847,PPARG
+94870413,4e-10,"['SYN2', 'GSTM5P1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1584063', 'effect_allele': '?'}]",3:12225355,GCST90094908,35047847,SYN2
+94870413,4e-10,"['SYN2', 'GSTM5P1']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1584063', 'effect_allele': '?'}]",3:12225355,GCST90094908,35047847,GSTM5P1
+94870408,4e-09,"['SYN2', 'ACTG1P12']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs598747', 'effect_allele': '?'}]",3:12070510,GCST90094908,35047847,SYN2
+94870408,4e-09,"['SYN2', 'ACTG1P12']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs598747', 'effect_allele': '?'}]",3:12070510,GCST90094908,35047847,ACTG1P12
+94870403,2e-08,"['NYAP2', 'MIR5702']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2713538', 'effect_allele': '?'}]",2:226269800,GCST90094908,35047847,NYAP2
+94870403,2e-08,"['NYAP2', 'MIR5702']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs2713538', 'effect_allele': '?'}]",2:226269800,GCST90094908,35047847,MIR5702
+94870397,2e-09,"['NYAP2', 'MIR5702']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1515114', 'effect_allele': '?'}]",2:226233671,GCST90094908,35047847,NYAP2
+94870397,2e-09,"['NYAP2', 'MIR5702']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1515114', 'effect_allele': '?'}]",2:226233671,GCST90094908,35047847,MIR5702
+94870391,1e-08,['COBLL1'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs355910', 'effect_allele': '?'}]",2:164790822,GCST90094908,35047847,COBLL1
+94870380,2e-08,['IFT172'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs1260327', 'effect_allele': '?'}]",2:27489026,GCST90094908,35047847,IFT172
+94870374,5e-10,"['EFNA3', 'EFNA4-EFNA3']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs17723260', 'effect_allele': '?'}]",1:155086187,GCST90094908,35047847,EFNA3
+94870374,5e-10,"['EFNA3', 'EFNA4-EFNA3']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs17723260', 'effect_allele': '?'}]",1:155086187,GCST90094908,35047847,EFNA4-EFNA3
+94870364,2e-09,['DOCK7'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs60286666', 'effect_allele': '?'}]",1:62655431,GCST90094908,35047847,DOCK7
+94870359,3.0000000000000004e-08,"['USP1', 'KANK4']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs624698', 'effect_allele': '?'}]",1:62435140,GCST90094908,35047847,USP1
+94870359,3.0000000000000004e-08,"['USP1', 'KANK4']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs624698', 'effect_allele': '?'}]",1:62435140,GCST90094908,35047847,KANK4
+94870353,3.0000000000000002e-18,['ARHGEF19'],['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs11260936', 'effect_allele': '?'}]",1:16199699,GCST90094908,35047847,ARHGEF19
+94870347,6.000000000000001e-09,"['EPHA2', 'FAM131C']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs924202', 'effect_allele': '?'}]",1:16116352,GCST90094908,35047847,EPHA2
+94870347,6.000000000000001e-09,"['EPHA2', 'FAM131C']",['Nonalcoholic fatty liver disease (imputed)'],NR,"[{'rs_id': 'rs924202', 'effect_allele': '?'}]",1:16116352,GCST90094908,35047847,FAM131C
+94870334,4e-16,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738408', 'effect_allele': '?'}]",22:43928850,GCST90094907,35047847,PNPLA3
+94870329,1e-08,['MAU2'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs73001065', 'effect_allele': '?'}]",19:19349732,GCST90094907,35047847,MAU2
+93944612,2e-22,['SUGP1'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs10401969', 'effect_allele': '?'}]",19:19296909,GCST90091033,34841290,SUGP1
+93944608,7e-12,['SAMM50'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs5764430', 'effect_allele': '?'}]",22:43965617,GCST90091033,34841290,SAMM50
+93944603,3.0000000000000004e-09,['LPL'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs13702', 'effect_allele': '?'}]",8:19966981,GCST90091033,34841290,LPL
+93944599,1e-10,"['TRIB1', 'TRIB1AL']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2980854', 'effect_allele': '?'}]",8:125465255,GCST90091033,34841290,TRIB1
+93944599,1e-10,"['TRIB1', 'TRIB1AL']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2980854', 'effect_allele': '?'}]",8:125465255,GCST90091033,34841290,TRIB1AL
+93944595,2e-11,['FTO'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs9922619', 'effect_allele': '?'}]",16:53797859,GCST90091033,34841290,FTO
+93944591,1e-47,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90091033,34841290,PNPLA3
+93944587,7e-17,['TM6SF2'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': 'T'}]",19:19268740,GCST90091033,34841290,TM6SF2
+93944583,1e-08,['APOE'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs429358', 'effect_allele': 'C'}]",19:44908684,GCST90091033,34841290,APOE
+93944579,6e-06,['GCKR'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs1260326', 'effect_allele': 'T'}]",2:27508073,GCST90091033,34841290,GCKR
+92876359,2e-87,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.215,"[{'rs_id': 'rs3747207', 'effect_allele': 'A'}]",22:43928975,GCST90054782,34535985,PNPLA3
+92876355,3.0000000000000003e-13,['APOE'],['Nonalcoholic fatty liver disease'],0.156,"[{'rs_id': 'rs429358', 'effect_allele': 'C'}]",19:44908684,GCST90054782,34535985,APOE
+92876349,8e-30,['MAU2'],['Nonalcoholic fatty liver disease'],0.071,"[{'rs_id': 'rs73001065', 'effect_allele': 'C'}]",19:19349732,GCST90054782,34535985,MAU2
+92876345,1e-16,['TRIB1AL'],['Nonalcoholic fatty liver disease'],0.476,"[{'rs_id': 'rs17321515', 'effect_allele': 'G'}]",8:125474167,GCST90054782,34535985,TRIB1AL
+92876341,3.0000000000000002e-15,['GCKR'],['Nonalcoholic fatty liver disease'],0.392,"[{'rs_id': 'rs1260326', 'effect_allele': 'C'}]",2:27508073,GCST90054782,34535985,GCKR
+92876335,6e-12,['MTARC1'],['Nonalcoholic fatty liver disease'],0.311,"[{'rs_id': 'rs2642442', 'effect_allele': 'T'}]",1:220800221,GCST90054782,34535985,MTARC1
+63618379,1e-49,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST90011885,32298765,PNPLA3
+63618374,6e-06,['MTARC1'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2642438', 'effect_allele': '?'}]",1:220796686,GCST90011885,32298765,MTARC1
+62250784,7e-07,['LMBRD1'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs77249491', 'effect_allele': '?'}]",6:69829361,GCST010597,32766472,LMBRD1
+62250780,9e-07,['LMBRD1'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs78276535', 'effect_allele': '?'}]",6:69829026,GCST010597,32766472,LMBRD1
+62250769,9e-07,['LINC01354'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs10797551', 'effect_allele': '?'}]",1:234512408,GCST010597,32766472,LINC01354
+62250764,8e-07,['PLCB1'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs6086536', 'effect_allele': '?'}]",20:8610549,GCST010597,32766472,PLCB1
+62250759,3e-07,['PIP5K1B'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs386734729', 'effect_allele': '?'}]",9:68729886,GCST010597,32766472,PIP5K1B
+62250754,6e-07,"['PARD3', 'LINC02629']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs58778359', 'effect_allele': '?'}]",10:33972351,GCST010597,32766472,PARD3
+62250754,6e-07,"['PARD3', 'LINC02629']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs58778359', 'effect_allele': '?'}]",10:33972351,GCST010597,32766472,LINC02629
+62250749,5e-07,"['PARD3', 'LINC02629']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs10827317', 'effect_allele': '?'}]",10:33972178,GCST010597,32766472,PARD3
+62250749,5e-07,"['PARD3', 'LINC02629']",['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs10827317', 'effect_allele': '?'}]",10:33972178,GCST010597,32766472,LINC02629
+62250583,1e-06,['GPC6'],['Lean nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs66781047', 'effect_allele': '?'}]",13:94367384,GCST010460,32766473,GPC6
+62250578,8e-07,['MYL2'],['Lean nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2301610', 'effect_allele': '?'}]",12:110915752,GCST010460,32766473,MYL2
+62250573,4e-07,['CNTNAP2'],['Lean nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2189883', 'effect_allele': '?'}]",7:147991795,GCST010460,32766473,CNTNAP2
+62250568,2e-07,"['BTNL2', 'TSBP1-AS1']",['Lean nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2076529', 'effect_allele': '?'}]",6:32396178,GCST010460,32766473,BTNL2
+62250568,2e-07,"['BTNL2', 'TSBP1-AS1']",['Lean nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs2076529', 'effect_allele': '?'}]",6:32396178,GCST010460,32766473,TSBP1-AS1
+61961359,6.000000000000001e-08,['TM6SF2'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs58542926', 'effect_allele': '?'}]",19:19268740,GCST010096,24531328,TM6SF2
+61961332,4e-16,['PNPLA3'],['Nonalcoholic fatty liver disease'],NR,"[{'rs_id': 'rs738409', 'effect_allele': '?'}]",22:43928847,GCST010096,24531328,PNPLA3
+47465855,7e-06,"['ACSM2B', 'ACSM2A', 'PNPLA3']",['Nonalcoholic fatty liver disease (SNP x SNP interaction)'],NR,"[{'rs_id': 'rs2188761', 'effect_allele': '?'}, {'rs_id': 'rs738409', 'effect_allele': '?'}]",16:20498374,GCST008470,31311600,ACSM2B
+47465855,7e-06,"['ACSM2B', 'ACSM2A', 'PNPLA3']",['Nonalcoholic fatty liver disease (SNP x SNP interaction)'],NR,"[{'rs_id': 'rs2188761', 'effect_allele': '?'}, {'rs_id': 'rs738409', 'effect_allele': '?'}]",16:20498374,GCST008470,31311600,ACSM2A
+47465855,7e-06,"['ACSM2B', 'ACSM2A', 'PNPLA3']",['Nonalcoholic fatty liver disease (SNP x SNP interaction)'],NR,"[{'rs_id': 'rs2188761', 'effect_allele': '?'}, {'rs_id': 'rs738409', 'effect_allele': '?'}]",16:20498374,GCST008470,31311600,PNPLA3
+47465128,4.9999999999999996e-06,"['LGMNP1', 'LINC00355']",['Nonalcoholic fatty liver disease'],0.0122455,"[{'rs_id': 'rs61951503', 'effect_allele': 'A'}]",13:64298255,GCST008468,31311600,LGMNP1
+47465128,4.9999999999999996e-06,"['LGMNP1', 'LINC00355']",['Nonalcoholic fatty liver disease'],0.0122455,"[{'rs_id': 'rs61951503', 'effect_allele': 'A'}]",13:64298255,GCST008468,31311600,LINC00355
+47465123,2e-06,"['LGMNP1', 'LINC00355']",['Nonalcoholic fatty liver disease'],0.0132789,"[{'rs_id': 'rs61950023', 'effect_allele': 'G'}]",13:64591706,GCST008468,31311600,LGMNP1
+47465123,2e-06,"['LGMNP1', 'LINC00355']",['Nonalcoholic fatty liver disease'],0.0132789,"[{'rs_id': 'rs61950023', 'effect_allele': 'G'}]",13:64591706,GCST008468,31311600,LINC00355
+47465118,8e-06,"['LGMNP1', 'LINC00355']",['Nonalcoholic fatty liver disease'],0.0123489,"[{'rs_id': 'rs61951392', 'effect_allele': 'T'}]",13:64417489,GCST008468,31311600,LGMNP1
+47465118,8e-06,"['LGMNP1', 'LINC00355']",['Nonalcoholic fatty liver disease'],0.0123489,"[{'rs_id': 'rs61951392', 'effect_allele': 'T'}]",13:64417489,GCST008468,31311600,LINC00355
+47465113,1e-06,"['RND3', 'LINC01818']",['Nonalcoholic fatty liver disease'],0.0248011,"[{'rs_id': 'rs71413689', 'effect_allele': 'A'}]",2:150398953,GCST008468,31311600,RND3
+47465113,1e-06,"['RND3', 'LINC01818']",['Nonalcoholic fatty liver disease'],0.0248011,"[{'rs_id': 'rs71413689', 'effect_allele': 'A'}]",2:150398953,GCST008468,31311600,LINC01818
+47465108,7e-06,['FAM171A1'],['Nonalcoholic fatty liver disease'],0.0256278,"[{'rs_id': 'rs112845472', 'effect_allele': 'A'}]",10:15265098,GCST008468,31311600,FAM171A1
+47465103,4.9999999999999996e-06,"['ITGA8', 'FAM171A1']",['Nonalcoholic fatty liver disease'],0.0275395,"[{'rs_id': 'rs45607632', 'effect_allele': 'C'}]",10:15371761,GCST008468,31311600,ITGA8
+47465103,4.9999999999999996e-06,"['ITGA8', 'FAM171A1']",['Nonalcoholic fatty liver disease'],0.0275395,"[{'rs_id': 'rs45607632', 'effect_allele': 'C'}]",10:15371761,GCST008468,31311600,FAM171A1
+47465098,8e-06,"['MIR378C', 'Y_RNA']",['Nonalcoholic fatty liver disease'],0.0292446,"[{'rs_id': 'rs4439433', 'effect_allele': 'T'}]",10:130872184,GCST008468,31311600,MIR378C
+47465098,8e-06,"['MIR378C', 'Y_RNA']",['Nonalcoholic fatty liver disease'],0.0292446,"[{'rs_id': 'rs4439433', 'effect_allele': 'T'}]",10:130872184,GCST008468,31311600,Y_RNA
+47465093,4e-06,['COMMD1'],['Nonalcoholic fatty liver disease'],0.0308463,"[{'rs_id': 'rs113180498', 'effect_allele': 'A'}]",2:62023103,GCST008468,31311600,COMMD1
+47465088,2e-07,"['FAM99A', 'KRTAP5-5']",['Nonalcoholic fatty liver disease'],0.0435052,"[{'rs_id': 'rs117542855', 'effect_allele': 'T'}]",11:1635713,GCST008468,31311600,FAM99A
+47465088,2e-07,"['FAM99A', 'KRTAP5-5']",['Nonalcoholic fatty liver disease'],0.0435052,"[{'rs_id': 'rs117542855', 'effect_allele': 'T'}]",11:1635713,GCST008468,31311600,KRTAP5-5
+47465083,2e-20,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.23282,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST008468,31311600,PNPLA3
+47465079,9e-06,"['IL36A', 'IL36B']",['Nonalcoholic fatty liver disease'],0.0612277,"[{'rs_id': 'rs28946269', 'effect_allele': 'T'}]",2:113011237,GCST008468,31311600,IL36A
+47465079,9e-06,"['IL36A', 'IL36B']",['Nonalcoholic fatty liver disease'],0.0612277,"[{'rs_id': 'rs28946269', 'effect_allele': 'T'}]",2:113011237,GCST008468,31311600,IL36B
+47465074,4.9999999999999996e-06,['ZNF101'],['Nonalcoholic fatty liver disease'],0.0839103,"[{'rs_id': 'rs56408111', 'effect_allele': 'C'}]",19:19682736,GCST008468,31311600,ZNF101
+47465070,9e-06,"['LINC01029', 'RNU6-655P']",['Nonalcoholic fatty liver disease'],0.0973442,"[{'rs_id': 'rs72996252', 'effect_allele': 'A'}]",18:78034265,GCST008468,31311600,LINC01029
+47465070,9e-06,"['LINC01029', 'RNU6-655P']",['Nonalcoholic fatty liver disease'],0.0973442,"[{'rs_id': 'rs72996252', 'effect_allele': 'A'}]",18:78034265,GCST008468,31311600,RNU6-655P
+47465065,6e-07,['TRIB1AL'],['Nonalcoholic fatty liver disease'],0.311977,"[{'rs_id': 'rs2980888', 'effect_allele': 'T'}]",8:125495066,GCST008468,31311600,TRIB1AL
+47465061,8e-06,"['MIR1202', 'SNORD28B']",['Nonalcoholic fatty liver disease'],0.572646,"[{'rs_id': 'rs6936723', 'effect_allele': 'C'}]",6:155990370,GCST008468,31311600,MIR1202
+47465061,8e-06,"['MIR1202', 'SNORD28B']",['Nonalcoholic fatty liver disease'],0.572646,"[{'rs_id': 'rs6936723', 'effect_allele': 'C'}]",6:155990370,GCST008468,31311600,SNORD28B
+47465056,3e-06,['FAM107B'],['Nonalcoholic fatty liver disease'],0.731735,"[{'rs_id': 'rs913295', 'effect_allele': 'G'}]",10:14664455,GCST008468,31311600,FAM107B
+27398487,2e-08,['GATAD2A'],['Nonalcoholic fatty liver disease'],0.27,"[{'rs_id': 'rs4808199', 'effect_allele': 'A'}]",19:19434290,GCST005308,29385134,GATAD2A
+27398481,1e-09,['GCKR'],['Nonalcoholic fatty liver disease'],0.57,"[{'rs_id': 'rs1260326', 'effect_allele': 'T'}]",2:27508073,GCST005308,29385134,GCKR
+27398476,2e-31,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.46,"[{'rs_id': 'rs2896019', 'effect_allele': 'G'}]",22:43937814,GCST005308,29385134,PNPLA3
+27398471,1e-18,"['PNPLA3', 'SAMM50']",['Nonalcoholic fatty liver disease'],0.52,"[{'rs_id': 'rs738491', 'effect_allele': 'T'}]",22:43958231,GCST005308,29385134,PNPLA3
+27398471,1e-18,"['PNPLA3', 'SAMM50']",['Nonalcoholic fatty liver disease'],0.52,"[{'rs_id': 'rs738491', 'effect_allele': 'T'}]",22:43958231,GCST005308,29385134,SAMM50
+27398465,1e-06,['PWWP3A'],['Nonalcoholic fatty liver disease'],0.33,"[{'rs_id': 'rs2668423', 'effect_allele': 'T'}]",19:1370527,GCST005308,29385134,PWWP3A
+27398459,1e-06,['ZNF512'],['Nonalcoholic fatty liver disease'],0.71,"[{'rs_id': 'rs1881396', 'effect_allele': 'T'}]",2:27621734,GCST005308,29385134,ZNF512
+27398453,2e-08,['GCKR'],['Nonalcoholic fatty liver disease'],0.57,"[{'rs_id': 'rs780094', 'effect_allele': 'T'}]",2:27518370,GCST005308,29385134,GCKR
+27262277,2e-11,['SAMM50'],['Nonalcoholic fatty liver disease'],0.395,"[{'rs_id': 'rs2143571', 'effect_allele': 'A'}]",22:43995806,GCST005190,29271184,SAMM50
+27262272,2e-15,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.398,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST005190,29271184,PNPLA3
+30150,2e-20,['PNPLA3'],['Pediatric non-alcoholic fatty liver disease activity score'],0.45,"[{'rs_id': 'rs2896019', 'effect_allele': 'G'}]",22:43937814,GCST001928,23535911,PNPLA3
+30149,7e-06,['DCLK1'],['Pediatric non-alcoholic fatty liver disease activity score'],0.81,"[{'rs_id': 'rs2051090', 'effect_allele': 'G'}]",13:35880056,GCST001928,23535911,DCLK1
+30148,7e-06,"['ELOCP20', 'NGF-AS1']",['Pediatric non-alcoholic fatty liver disease activity score'],0.32,"[{'rs_id': 'rs7552722', 'effect_allele': 'A'}]",1:115378734,GCST001928,23535911,ELOCP20
+30148,7e-06,"['ELOCP20', 'NGF-AS1']",['Pediatric non-alcoholic fatty liver disease activity score'],0.32,"[{'rs_id': 'rs7552722', 'effect_allele': 'A'}]",1:115378734,GCST001928,23535911,NGF-AS1
+30147,7e-06,"['LINC01648', 'LINC01756']",['Pediatric non-alcoholic fatty liver disease activity score'],0.77,"[{'rs_id': 'rs6691847', 'effect_allele': 'C'}]",1:29792805,GCST001928,23535911,LINC01648
+30147,7e-06,"['LINC01648', 'LINC01756']",['Pediatric non-alcoholic fatty liver disease activity score'],0.77,"[{'rs_id': 'rs6691847', 'effect_allele': 'C'}]",1:29792805,GCST001928,23535911,LINC01756
+26290,2e-06,['SLC38A8'],['Non-alcoholic fatty liver disease histology (other)'],0.100,"[{'rs_id': 'rs11864146', 'effect_allele': 'A'}]",16:84013110,GCST001766,23213074,SLC38A8
+26289,3e-06,"['LCP1', 'CPB2-AS1']",['Non-alcoholic fatty liver disease histology (other)'],0.096,"[{'rs_id': 'rs7324845', 'effect_allele': 'A'}]",13:46129007,GCST001766,23213074,LCP1
+26289,3e-06,"['LCP1', 'CPB2-AS1']",['Non-alcoholic fatty liver disease histology (other)'],0.096,"[{'rs_id': 'rs7324845', 'effect_allele': 'A'}]",13:46129007,GCST001766,23213074,CPB2-AS1
+26288,1e-06,['GC'],['Non-alcoholic fatty liver disease histology (other)'],0.301,"[{'rs_id': 'rs222054', 'effect_allele': 'C'}]",4:71738582,GCST001766,23213074,GC
+26287,4.9999999999999996e-06,"['PLPPR4', 'LINC01708']",['Non-alcoholic fatty liver disease histology (other)'],0.441,"[{'rs_id': 'rs12743824', 'effect_allele': 'C'}]",1:99317401,GCST001766,23213074,PLPPR4
+26287,4.9999999999999996e-06,"['PLPPR4', 'LINC01708']",['Non-alcoholic fatty liver disease histology (other)'],0.441,"[{'rs_id': 'rs12743824', 'effect_allele': 'C'}]",1:99317401,GCST001766,23213074,LINC01708
+22664,8e-07,['SAMM50'],['Nonalcoholic fatty liver disease'],0.458,"[{'rs_id': 'rs2073080', 'effect_allele': 'T'}]",22:43998522,GCST001576,22719876,SAMM50
+22663,6e-07,['SAMM50'],['Nonalcoholic fatty liver disease'],0.458,"[{'rs_id': 'rs2143571', 'effect_allele': 'A'}]",22:43995806,GCST001576,22719876,SAMM50
+22662,3e-06,"['HS3ST1', 'LINC02360']",['Nonalcoholic fatty liver disease'],0.372,"[{'rs_id': 'rs1390096', 'effect_allele': 'A'}]",4:11501980,GCST001576,22719876,HS3ST1
+22662,3e-06,"['HS3ST1', 'LINC02360']",['Nonalcoholic fatty liver disease'],0.372,"[{'rs_id': 'rs1390096', 'effect_allele': 'A'}]",4:11501980,GCST001576,22719876,LINC02360
+22661,4.9999999999999996e-06,['YIPF1'],['Nonalcoholic fatty liver disease'],0.848,"[{'rs_id': 'rs11206226', 'effect_allele': 'A'}]",1:53854664,GCST001576,22719876,YIPF1
+22010,1e-10,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.484,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST001576,22719876,PNPLA3
+17640,4e-34,['PNPLA3'],['Nonalcoholic fatty liver disease'],0.23,"[{'rs_id': 'rs738409', 'effect_allele': 'G'}]",22:43928847,GCST001008,21423719,PNPLA3
+16044,7e-06,['SEL1L3'],['Non-alcoholic fatty liver disease histology (other)'],0.29,"[{'rs_id': 'rs959903', 'effect_allele': 'A'}]",4:25808474,GCST000765,20708005,SEL1L3
+16043,7e-06,['TEX36'],['Non-alcoholic fatty liver disease histology (other)'],0.13,"[{'rs_id': 'rs10510146', 'effect_allele': 'A'}]",10:125607576,GCST000765,20708005,TEX36
+16042,2e-06,"['RNA5SP112', 'RNU6-187P']",['Non-alcoholic fatty liver disease histology (other)'],0.41,"[{'rs_id': 'rs1529093', 'effect_allele': 'A'}]",2:177044867,GCST000765,20708005,RNA5SP112
+16042,2e-06,"['RNA5SP112', 'RNU6-187P']",['Non-alcoholic fatty liver disease histology (other)'],0.41,"[{'rs_id': 'rs1529093', 'effect_allele': 'A'}]",2:177044867,GCST000765,20708005,RNU6-187P
+16041,4.9999999999999996e-06,"['PCSK5', 'OTX2P1']",['Non-alcoholic fatty liver disease histology (AST)'],0.07,"[{'rs_id': 'rs12344488', 'effect_allele': 'A'}]",9:75811009,GCST000767,20708005,PCSK5
+16041,4.9999999999999996e-06,"['PCSK5', 'OTX2P1']",['Non-alcoholic fatty liver disease histology (AST)'],0.07,"[{'rs_id': 'rs12344488', 'effect_allele': 'A'}]",9:75811009,GCST000767,20708005,OTX2P1
+16040,4e-06,"['MEMO1P2', 'LINC03002']",['Non-alcoholic fatty liver disease histology (AST)'],0.30,"[{'rs_id': 'rs2049953', 'effect_allele': 'C'}]",6:134817852,GCST000767,20708005,MEMO1P2
+16040,4e-06,"['MEMO1P2', 'LINC03002']",['Non-alcoholic fatty liver disease histology (AST)'],0.30,"[{'rs_id': 'rs2049953', 'effect_allele': 'C'}]",6:134817852,GCST000767,20708005,LINC03002
+16039,2e-06,"['TLCD4-RWDD3', 'RWDD3-DT']",['Non-alcoholic fatty liver disease histology (AST)'],0.40,"[{'rs_id': 'rs1414896', 'effect_allele': 'G'}]",1:95226754,GCST000767,20708005,TLCD4-RWDD3
+16039,2e-06,"['TLCD4-RWDD3', 'RWDD3-DT']",['Non-alcoholic fatty liver disease histology (AST)'],0.40,"[{'rs_id': 'rs1414896', 'effect_allele': 'G'}]",1:95226754,GCST000767,20708005,RWDD3-DT
+16038,6e-07,['DDX60L'],['Non-alcoholic fatty liver disease histology (AST)'],0.17,"[{'rs_id': 'rs2710833', 'effect_allele': 'A'}]",4:168488807,GCST000767,20708005,DDX60L
+16037,1e-06,['LINC00987'],['Non-alcoholic fatty liver disease histology (AST)'],0.16,"[{'rs_id': 'rs6487679', 'effect_allele': 'G'}]",12:9218736,GCST000767,20708005,LINC00987
+16036,2e-06,"['ZP4', 'MTCO1P38']",['Non-alcoholic fatty liver disease histology (AST)'],0.44,"[{'rs_id': 'rs2499604', 'effect_allele': 'A'}]",1:237940201,GCST000767,20708005,ZP4
+16036,2e-06,"['ZP4', 'MTCO1P38']",['Non-alcoholic fatty liver disease histology (AST)'],0.44,"[{'rs_id': 'rs2499604', 'effect_allele': 'A'}]",1:237940201,GCST000767,20708005,MTCO1P38
+16035,8e-06,"['CDH2', 'ARIH2P1']",['Non-alcoholic fatty liver disease histology (lobular)'],0.34,"[{'rs_id': 'rs11083271', 'effect_allele': 'A'}]",18:28346095,GCST000766,20708005,CDH2
+16035,8e-06,"['CDH2', 'ARIH2P1']",['Non-alcoholic fatty liver disease histology (lobular)'],0.34,"[{'rs_id': 'rs11083271', 'effect_allele': 'A'}]",18:28346095,GCST000766,20708005,ARIH2P1
+16034,7e-06,['COL13A1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.30,"[{'rs_id': 'rs7077164', 'effect_allele': 'A'}]",10:69823442,GCST000766,20708005,COL13A1
+16033,7e-06,['CACNA2D1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.33,"[{'rs_id': 'rs10954668', 'effect_allele': 'A'}]",7:82218335,GCST000766,20708005,CACNA2D1
+16032,4.9999999999999996e-06,"['EEF1A1P20', 'Y_RNA']",['Non-alcoholic fatty liver disease histology (lobular)'],0.30,"[{'rs_id': 'rs10067427', 'effect_allele': 'G'}]",5:100006343,GCST000766,20708005,EEF1A1P20
+16032,4.9999999999999996e-06,"['EEF1A1P20', 'Y_RNA']",['Non-alcoholic fatty liver disease histology (lobular)'],0.30,"[{'rs_id': 'rs10067427', 'effect_allele': 'G'}]",5:100006343,GCST000766,20708005,Y_RNA
+16031,4e-06,['SLC9A9'],['Non-alcoholic fatty liver disease histology (lobular)'],0.17,"[{'rs_id': 'rs7632299', 'effect_allele': 'A'}]",3:143337625,GCST000766,20708005,SLC9A9
+16030,4e-06,['ST8SIA1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.18,"[{'rs_id': 'rs2216228', 'effect_allele': 'G'}]",12:22212901,GCST000766,20708005,ST8SIA1
+16029,3e-06,"['SVIL', 'JCAD']",['Non-alcoholic fatty liver disease histology (lobular)'],0.48,"[{'rs_id': 'rs2986971', 'effect_allele': 'G'}]",10:29807699,GCST000766,20708005,SVIL
+16029,3e-06,"['SVIL', 'JCAD']",['Non-alcoholic fatty liver disease histology (lobular)'],0.48,"[{'rs_id': 'rs2986971', 'effect_allele': 'G'}]",10:29807699,GCST000766,20708005,JCAD
+16028,3e-06,['FDFT1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.40,"[{'rs_id': 'rs2645424', 'effect_allele': 'A'}]",8:11826954,GCST000766,20708005,FDFT1
+16027,2e-06,"['CNTN5', 'LINC02713']",['Non-alcoholic fatty liver disease histology (lobular)'],0.35,"[{'rs_id': 'rs4237591', 'effect_allele': 'G'}]",11:98595538,GCST000766,20708005,CNTN5
+16027,2e-06,"['CNTN5', 'LINC02713']",['Non-alcoholic fatty liver disease histology (lobular)'],0.35,"[{'rs_id': 'rs4237591', 'effect_allele': 'G'}]",11:98595538,GCST000766,20708005,LINC02713
+16026,2e-06,['FARP1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.35,"[{'rs_id': 'rs9584805', 'effect_allele': 'G'}]",13:98341776,GCST000766,20708005,FARP1
+16025,8e-07,['CRACR2A'],['Non-alcoholic fatty liver disease histology (lobular)'],0.31,"[{'rs_id': 'rs887304', 'effect_allele': 'A'}]",12:3648382,GCST000766,20708005,CRACR2A
+16024,9e-07,['EHBP1L1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.47,"[{'rs_id': 'rs6591182', 'effect_allele': 'A'}]",11:65582285,GCST000766,20708005,EHBP1L1
+16023,2e-07,['COL13A1'],['Non-alcoholic fatty liver disease histology (lobular)'],0.46,"[{'rs_id': 'rs1227756', 'effect_allele': 'G'}]",10:69828748,GCST000766,20708005,COL13A1
+16020,9e-06,['SLC46A3'],['Non-alcoholic fatty liver disease histology (other)'],0.06,"[{'rs_id': 'rs1305088', 'effect_allele': 'A'}]",13:28704313,GCST000765,20708005,SLC46A3
+16019,3e-06,"['CHST2', 'PBX2P1']",['Non-alcoholic fatty liver disease histology (other)'],0.34,"[{'rs_id': 'rs894177', 'effect_allele': 'G'}]",3:143175569,GCST000765,20708005,CHST2
+16019,3e-06,"['CHST2', 'PBX2P1']",['Non-alcoholic fatty liver disease histology (other)'],0.34,"[{'rs_id': 'rs894177', 'effect_allele': 'G'}]",3:143175569,GCST000765,20708005,PBX2P1
+16018,3e-06,['SLC9A9'],['Non-alcoholic fatty liver disease histology (other)'],0.34,"[{'rs_id': 'rs2800', 'effect_allele': 'G'}]",3:143705980,GCST000765,20708005,SLC9A9
+16017,7e-06,['MACROD2'],['Non-alcoholic fatty liver disease histology (other)'],0.49,"[{'rs_id': 'rs6079395', 'effect_allele': 'A'}]",20:14347253,GCST000765,20708005,MACROD2
+16016,6e-06,"['MIR646HG', 'LINC01718']",['Non-alcoholic fatty liver disease histology (other)'],0.39,"[{'rs_id': 'rs6027755', 'effect_allele': 'A'}]",20:60693652,GCST000765,20708005,MIR646HG
+16016,6e-06,"['MIR646HG', 'LINC01718']",['Non-alcoholic fatty liver disease histology (other)'],0.39,"[{'rs_id': 'rs6027755', 'effect_allele': 'A'}]",20:60693652,GCST000765,20708005,LINC01718
+16005,4.9999999999999996e-06,"['RNA5SP489', 'RPL13AP7']",['Non-alcoholic fatty liver disease histology (other)'],0.33,"[{'rs_id': 'rs9977253', 'effect_allele': 'G'}]",21:25272769,GCST000765,20708005,RNA5SP489
+16005,4.9999999999999996e-06,"['RNA5SP489', 'RPL13AP7']",['Non-alcoholic fatty liver disease histology (other)'],0.33,"[{'rs_id': 'rs9977253', 'effect_allele': 'G'}]",21:25272769,GCST000765,20708005,RPL13AP7
+16004,4e-06,"['RNA5SP166', 'ATP5MGP4']",['Non-alcoholic fatty liver disease histology (other)'],0.44,"[{'rs_id': 'rs2358462', 'effect_allele': 'G'}]",4:148649528,GCST000765,20708005,RNA5SP166
+16004,4e-06,"['RNA5SP166', 'ATP5MGP4']",['Non-alcoholic fatty liver disease histology (other)'],0.44,"[{'rs_id': 'rs2358462', 'effect_allele': 'G'}]",4:148649528,GCST000765,20708005,ATP5MGP4
+16003,2e-06,"['KHDRBS3', 'RNU1-35P']",['Non-alcoholic fatty liver disease histology (other)'],0.52,"[{'rs_id': 'rs4243849', 'effect_allele': 'G'}]",8:135700894,GCST000765,20708005,KHDRBS3
+16003,2e-06,"['KHDRBS3', 'RNU1-35P']",['Non-alcoholic fatty liver disease histology (other)'],0.52,"[{'rs_id': 'rs4243849', 'effect_allele': 'G'}]",8:135700894,GCST000765,20708005,RNU1-35P
+16002,1e-06,"['LINC00322', 'LINC01679']",['Non-alcoholic fatty liver disease histology (other)'],0.38,"[{'rs_id': 'rs643608', 'effect_allele': 'G'}]",21:43348682,GCST000765,20708005,LINC00322
+16002,1e-06,"['LINC00322', 'LINC01679']",['Non-alcoholic fatty liver disease histology (other)'],0.38,"[{'rs_id': 'rs643608', 'effect_allele': 'G'}]",21:43348682,GCST000765,20708005,LINC01679
+16001,4e-06,['NFIC'],['Non-alcoholic fatty liver disease histology (other)'],0.45,"[{'rs_id': 'rs11669592', 'effect_allele': 'A'}]",19:3318512,GCST000765,20708005,NFIC
+16000,3e-06,"['LINC02412', 'NACAP8']",['Non-alcoholic fatty liver disease histology (other)'],0.42,"[{'rs_id': 'rs1836127', 'effect_allele': 'A'}]",12:93156525,GCST000765,20708005,LINC02412
+16000,3e-06,"['LINC02412', 'NACAP8']",['Non-alcoholic fatty liver disease histology (other)'],0.42,"[{'rs_id': 'rs1836127', 'effect_allele': 'A'}]",12:93156525,GCST000765,20708005,NACAP8
+15993,3.0000000000000004e-08,"['HERPUD2', 'TBX20']",['Non-alcoholic fatty liver disease histology (other)'],0.40,"[{'rs_id': 'rs343064', 'effect_allele': 'A'}]",7:35515178,GCST000765,20708005,HERPUD2
+15993,3.0000000000000004e-08,"['HERPUD2', 'TBX20']",['Non-alcoholic fatty liver disease histology (other)'],0.40,"[{'rs_id': 'rs343064', 'effect_allele': 'A'}]",7:35515178,GCST000765,20708005,TBX20
+15992,7e-07,['FDFT1'],['Non-alcoholic fatty liver disease histology (other)'],0.40,"[{'rs_id': 'rs2645424', 'effect_allele': 'A'}]",8:11826954,GCST000765,20708005,FDFT1

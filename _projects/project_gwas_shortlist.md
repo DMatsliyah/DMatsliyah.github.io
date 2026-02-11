@@ -3,7 +3,7 @@ layout: page
 title: "GWAS-based gene shortlist for NAFLD"
 description: A cautious, transparent genetics evidence triage using the GWAS Catalog API
 img: assets/img/projects/bioinfo/gwas_shortlist/gwasCard.jpg
-importance: 3
+importance: #3
 category: Science
 giscus_comments: true
 toc:
@@ -174,3 +174,4 @@ The repository includes:
 - minimal dependencies (pandas, numpy, requests, matplotlib)
 
 The project is designed to be run end-to-end in a standard Python environment.
+
